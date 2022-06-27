@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="768px" preserveAspectRatio="none" style="width:2521px;height:768px;background:#FFFFFF;" version="1.1" viewBox="0 0 2521 768" width="2521px" zoomAndPan="magnify"><defs><filter height="300%" id="f1wikh9yrnzft9" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="171" x="1168.75" y="16.708">Relations Diagram</text><!--MD5=[4d2c1095686cc4272d4556037dedae14]
+entity accounts--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="84" x="597.5" y="328.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="64" x="607.5" y="344.4482">accounts</text><!--MD5=[7522312583acea72c2e1aec63b117f71]
+entity accounttaxes--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="116" x="227.5" y="191.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="96" x="237.5" y="207.4482">accounttaxes</text><!--MD5=[c6efc23d092fbbbbade35b8b244eefa1]
+entity adjustments--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="109" x="399" y="191.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="89" x="409" y="207.4482">adjustments</text><!--MD5=[75d259d4f3ced47e2c91211e38951282]
+entity authcodes--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="94" x="1106.5" y="191.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="1116.5" y="207.4482">authcodes</text><!--MD5=[f1f33e6070c0e00e35e2c2655e251957]
+entity bankdetails--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="104" x="438.5" y="328.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="448.5" y="344.4482">bankdetails</text><!--MD5=[a2d19b727089688c10edaa0c45fa41f4]
+entity billingtasks--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="102" x="563.5" y="191.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="82" x="573.5" y="207.4482">billingtasks</text><!--MD5=[ddf29b7a8cd420af7a1cdecbfd230bac]
+entity callcredits--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="94" x="1600.5" y="191.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="74" x="1610.5" y="207.4482">callcredits</text><!--MD5=[d458b58106a62525544880793ecff120]
+entity callusergroups--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="123" x="1635" y="104.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="103" x="1645" y="120.9482">callusergroups</text><!--MD5=[45dd728a230829a016f3bf02e29f4be8]
+entity contracts--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="89" x="832" y="191.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="842" y="207.4482">contracts</text><!--MD5=[ef565397ae398e72698c254b0342b182]
+entity customerpayments--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="160" x="338.5" y="104.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="348.5" y="120.9482">customerpayments</text><!--MD5=[9cb6f04ec08feb5a196f35eb4d038f95]
+entity discounts--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="88" x="1710.5" y="328.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="68" x="1720.5" y="344.4482">discounts</text><!--MD5=[fd9ba4d1ee09df02b09084e2a1cfec3a]
+entity extentions--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="98" x="1749.5" y="191.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="1759.5" y="207.4482">extentions</text><!--MD5=[485ede2d0d4ac13b5a1c07c54e0d6b4c]
+entity gains--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="57" x="1096" y="328.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="37" x="1106" y="344.4482">gains</text><!--MD5=[1570cd35259193833f2a9a5743c77ff1]
+entity memberships--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="119" x="1256" y="191.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="1266" y="207.4482">memberships</text><!--MD5=[b518e691e56c2ffeffe41519050db205]
+entity networks_clearlogins--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="169" x="1816" y="27.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="149" x="1826" y="43.9482">networks/clearlogins</text><!--MD5=[09fbfb71ee11f1c057e4014175d4b073]
+entity paymentdocuments--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="165" x="7" y="191.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="145" x="17" y="207.4482">paymentdocuments</text><!--MD5=[b031337ed0729c9d8c30a022040a8448]
+entity paymentregistry--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="141" x="2040" y="27.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="121" x="2050" y="43.9482">paymentregistry</text><!--MD5=[618839acf5c363db0fa71ca3825bc94a]
+entity phonenumbers--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="129" x="1632" y="27.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="109" x="1642" y="43.9482">phonenumbers</text><!--MD5=[5e173b5a5142f3b24f4fccf2d75d580c]
+entity portabilitynumbers--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="160" x="2236.5" y="27.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="2246.5" y="43.9482">portabilitynumbers</text><!--MD5=[c96b9cf15ecb9a8a5a58c2dc6b9c38e1]
+entity profiles--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="75" x="976" y="191.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="986" y="207.4482">profiles</text><!--MD5=[cfdba1023c60d66a0e206e35dff5e9a1]
+entity servicesubscriptions--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="167" x="1404" y="27.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="147" x="1414" y="43.9482">servicesubscriptions</text><!--MD5=[b4a82ef0e67a03c4072f6c2be9006ed8]
+entity tasks--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="58" x="2451.5" y="27.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="2461.5" y="43.9482">tasks</text><!--MD5=[24310e3a925622b6f38098ca36d7923b]
+entity templatesubscriptions--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="184" x="1395.5" y="104.9531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="164" x="1405.5" y="120.9482">templatesubscriptions</text><!--MD5=[09820943bda10611d9ee12ca078eb8cb]
+entity treenodeproperties--><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="22.2969" style="stroke:#A80036;stroke-width:2.0;" width="164" x="1902.5" y="191.4531"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="144" x="1912.5" y="207.4482">treenodeproperties</text><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="41.1016" style="stroke:#A80036;stroke-width:2.0;" width="100" x="2121.5" y="181.9531"/><text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacing" textLength="76" x="2133.5" y="197.8765">addresses</text><line style="stroke:#A80036;stroke-width:1.5;" x1="2122.5" x2="2220.5" y1="203.4141" y2="203.4141"/><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="24" x="2127.5" y="216.6963">sync</text><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="41.1016" style="stroke:#A80036;stroke-width:2.0;" width="115" x="1430" y="181.9531"/><text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacing" textLength="91" x="1442" y="197.8765">agreements</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1431" x2="1544" y1="203.4141" y2="203.4141"/><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="72" x="1436" y="216.6963">changetariffs</text><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="99.3047" style="stroke:#A80036;stroke-width:2.0;" width="119" x="1065" y="644.9531"/><text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacing" textLength="95" x="1077" y="660.8765">associations</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1066" x2="1183" y1="666.4141" y2="666.4141"/><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="44" x="1071" y="679.6963">activate</text><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="73" x="1071" y="691.3369">changename</text><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="77" x="1071" y="702.9775">changeparent</text><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="73" x="1071" y="714.6182">changestatus</text><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="58" x="1071" y="726.2588">deactivate</text><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="48" x="1071" y="737.8994">setlabels</text><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="134.2266" style="stroke:#A80036;stroke-width:2.0;" width="103" x="1185" y="455.9531"/><text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacing" textLength="79" x="1197" y="471.8765">customers</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1186" x2="1287" y1="477.4141" y2="477.4141"/><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="44" x="1191" y="490.6963">activate</text><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="65" x="1191" y="502.3369">calccharges</text><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="73" x="1191" y="513.9775">changename</text><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="77" x="1191" y="525.6182">changeparent</text><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="73" x="1191" y="537.2588">changestatus</text><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="58" x="1191" y="548.8994">deactivate</text><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="90" x="1191" y="560.54">postponeinvoice</text><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="48" x="1191" y="572.1807">setlabels</text><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="24" x="1191" y="583.8213">sync</text><rect fill="#FFFFFF" filter="url(#f1wikh9yrnzft9)" height="122.5859" style="stroke:#A80036;stroke-width:2.0;" width="113" x="1431" y="277.9531"/><text fill="#000000" font-family="sans-serif" font-size="15" lengthAdjust="spacing" textLength="89" x="1443" y="293.8765">subscribers</text><line style="stroke:#A80036;stroke-width:1.5;" x1="1432" x2="1543" y1="299.4141" y2="299.4141"/><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="44" x="1437" y="312.6963">activate</text><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="65" x="1437" y="324.3369">calccharges</text><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="85" x="1437" y="335.9775">changeaccount</text><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="73" x="1437" y="347.6182">changename</text><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="73" x="1437" y="359.2588">changestatus</text><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="58" x="1437" y="370.8994">deactivate</text><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="49" x="1437" y="382.54">recharge</text><text fill="#FF0000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="48" x="1437" y="394.1807">setlabels</text><!--MD5=[de2dfefd4c8409f06c73e38a7148165e]
+reverse link accounts to customers--><path codeLine="124" d="M639.5,355.6561 C639.5,355.6561 639.5,522.9531 639.5,522.9531 C639.5,522.9531 1039.8,522.9531 1184.82,522.9531 " fill="none" id="accounts-backto-customers" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="639.5,350.6561,635.5,359.6561,639.5,355.6561,643.5,359.6561,639.5,350.6561" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[33c8a7f2761cc20945c8c43f67f7df84]
+reverse link accounttaxes to accounts--><path d="M285.5,216.6171 C285.5,216.6171 285.5,216.9531 285.5,216.9531 C285.5,216.9531 631.5,216.9531 631.5,216.9531 C631.5,216.9531 631.5,297.8221 631.5,328.1481 " fill="none" id="accounttaxes-backto-accounts" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="285.5,213.5901,281.5,222.5901,285.5,218.5901,289.5,222.5901,285.5,213.5901" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[f54eaff97a4c7ff9af121951d2e32665]
+reverse link addresses to associations--><path codeLine="126" d="M2196.5,228.0171 C2196.5,228.0171 2196.5,710.9531 2196.5,710.9531 C2196.5,710.9531 1409.29,710.9531 1184.05,710.9531 " fill="none" id="addresses-backto-associations" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="2196.5,223.0171,2192.5,232.0171,2196.5,228.0171,2200.5,232.0171,2196.5,223.0171" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[ef19ba4ba110d264191d44ca8a20d1e8]
+reverse link addresses to customers--><path codeLine="127" d="M2171.5,228.0451 C2171.5,228.0451 2171.5,556.9531 2171.5,556.9531 C2171.5,556.9531 1484.11,556.9531 1288.1,556.9531 " fill="none" id="addresses-backto-customers" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="2171.5,223.0451,2167.5,232.0451,2171.5,228.0451,2175.5,232.0451,2171.5,223.0451" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[eadf4d3b79ade22fe30673638f6d360a]
+reverse link addresses to subscribers--><path codeLine="128" d="M2146.5,228.0131 C2146.5,228.0131 2146.5,318.9531 2146.5,318.9531 C2146.5,318.9531 1704.11,318.9531 1544.26,318.9531 " fill="none" id="addresses-backto-subscribers" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="2146.5,223.0131,2142.5,232.0131,2146.5,228.0131,2150.5,232.0131,2146.5,223.0131" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[249258a26924ba5bcf4b331b78d182e1]
+reverse link adjustments to accounts--><path d="M513.198,202.9531 C513.198,202.9531 553,202.9531 553,202.9531 C553,202.9531 553,339.9531 553,339.9531 C553,339.9531 575.306,339.9531 597.264,339.9531 " fill="none" id="adjustments-backto-accounts" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="508.198,202.9531,517.198,206.9531,513.198,202.9531,517.198,198.9531,508.198,202.9531" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[3bd80fee602ab6e253a45445dbaeee9b]
+reverse link agreements to subscribers--><path codeLine="130" d="M1487.5,227.9631 C1487.5,227.9631 1487.5,277.8261 1487.5,277.8261 " fill="none" id="agreements-backto-subscribers" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="1487.5,222.9631,1483.5,231.9631,1487.5,227.9631,1491.5,231.9631,1487.5,222.9631" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[311f9ab8a10bcecda4b3aa9a48f1d5ba]
+reverse link associations to associations--><path codeLine="131" d="M1075.33,639.7091 C1075.33,639.7091 1075.33,617.9531 1075.33,617.9531 C1075.33,617.9531 1058,617.9531 1058,617.9531 C1058,617.9531 1058,761.9531 1058,761.9531 C1058,761.9531 1124.5,761.9531 1124.5,761.9531 C1124.5,761.9531 1124.5,754.3355 1124.5,744.2183 " fill="none" id="associations-backto-associations" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="1075.33,644.7091,1079.33,635.7091,1075.33,639.7091,1071.33,635.7091,1075.33,644.7091" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[24bcd2817517fd8b86c8208dbd12d76f]
+reverse link authcodes to customers--><path codeLine="132" d="M1192.75,218.4851 C1192.75,218.4851 1192.75,455.7081 1192.75,455.7081 " fill="none" id="authcodes-backto-customers" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="1192.75,213.4851,1188.75,222.4851,1192.75,218.4851,1196.75,222.4851,1192.75,213.4851" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[8a007cb7cf0c0bc968c909bd25661eed]
+reverse link authcodes to subscribers--><path codeLine="133" d="M1196.62,218.5231 C1196.62,218.5231 1196.62,298.9531 1196.62,298.9531 C1196.62,298.9531 1346.08,298.9531 1430.73,298.9531 " fill="none" id="authcodes-backto-subscribers" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="1196.62,213.5231,1192.62,222.5231,1196.62,218.5231,1200.62,222.5231,1196.62,213.5231" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[ca5c26318f0c64a03f31e74e20aa2c6e]
+reverse link bankdetails to associations--><path codeLine="134" d="M473.167,355.5711 C473.167,355.5711 473.167,710.9531 473.167,710.9531 C473.167,710.9531 904.183,710.9531 1064.97,710.9531 " fill="none" id="bankdetails-backto-associations" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="473.167,350.5711,469.167,359.5711,473.167,355.5711,477.167,359.5711,473.167,350.5711" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[0ec4ea3b7ad05cdca264fb374663b97c]
+reverse link bankdetails to customers--><path codeLine="135" d="M507.833,355.5551 C507.833,355.5551 507.833,545.9531 507.833,545.9531 C507.833,545.9531 1018.81,545.9531 1184.97,545.9531 " fill="none" id="bankdetails-backto-customers" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="507.833,350.5551,503.833,359.5551,507.833,355.5551,511.833,359.5551,507.833,350.5551" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[ae1299d1c6d4f4e9c6492b35b1c08ece]
+reverse link billingtasks to accounts--><path d="M648.5,218.6641 C648.5,218.6641 648.5,328.0871 648.5,328.0871 " fill="none" id="billingtasks-backto-accounts" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="648.5,213.6641,644.5,222.6641,648.5,218.6641,652.5,222.6641,648.5,213.6641" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[7a91c34830a09168f7dec0a0c200b8be]
+reverse link callcredits to subscribers--><path codeLine="137" d="M1647.5,218.7611 C1647.5,218.7611 1647.5,288.9531 1647.5,288.9531 C1647.5,288.9531 1590.35,288.9531 1544.36,288.9531 " fill="none" id="callcredits-backto-subscribers" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="1647.5,213.7611,1643.5,222.7611,1647.5,218.7611,1651.5,222.7611,1647.5,213.7611" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[6ebec30fa830bed3f00232e5ad1c59a2]
+reverse link contracts to associations--><path codeLine="138" d="M854.25,218.7381 C854.25,218.7381 854.25,677.9531 854.25,677.9531 C854.25,677.9531 985.272,677.9531 1064.86,677.9531 " fill="none" id="contracts-backto-associations" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="854.25,213.7381,850.25,222.7381,854.25,218.7381,858.25,222.7381,854.25,213.7381" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[dd19bd1cbb730922f30688f7f0b1eb5d]
+reverse link contracts to customers--><path codeLine="139" d="M876.5,218.7901 C876.5,218.7901 876.5,500.9531 876.5,500.9531 C876.5,500.9531 1085.38,500.9531 1184.92,500.9531 " fill="none" id="contracts-backto-customers" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="876.5,213.7901,872.5,222.7901,876.5,218.7901,880.5,222.7901,876.5,213.7901" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[3b183dff482abc6d029f8133e1a2ca61]
+reverse link contracts to subscribers--><path codeLine="140" d="M898.75,218.6241 C898.75,218.6241 898.75,318.9531 898.75,318.9531 C898.75,318.9531 1283.22,318.9531 1430.78,318.9531 " fill="none" id="contracts-backto-subscribers" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="898.75,213.6241,894.75,222.6241,898.75,218.6241,902.75,222.6241,898.75,213.6241" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[4986d587793432fba99f359befb95aba]
+reverse link customerpayments to accounts--><path d="M503.834,115.9531 C503.834,115.9531 673.5,115.9531 673.5,115.9531 C673.5,115.9531 673.5,283.2721 673.5,328.3701 " fill="none" id="customerpayments-backto-accounts" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="498.834,115.9531,507.834,119.9531,503.834,115.9531,507.834,111.9531,498.834,115.9531" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[f827bf4c73c71e903e9e708aacc1e456]
+reverse link customerpayments to paymentdocuments--><path d="M333.438,115.9531 C333.438,115.9531 89.5,115.9531 89.5,115.9531 C89.5,115.9531 89.5,167.6981 89.5,191.1451 " fill="none" id="customerpayments-backto-paymentdocuments" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="338.438,115.9531,329.438,111.9531,333.438,115.9531,329.438,119.9531,338.438,115.9531" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[fff16b3d1f973d7adff4921faf2f8024]
+reverse link customers to associations--><path codeLine="143" d="M1179.96,567.9531 C1179.96,567.9531 1168.5,567.9531 1168.5,567.9531 C1168.5,567.9531 1168.5,609.3801 1168.5,644.8201 " fill="none" id="customers-backto-associations" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="1184.96,567.9531,1175.96,563.9531,1179.96,567.9531,1175.96,571.9531,1184.96,567.9531" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[d621f29ef09759d871a1b89526cfa458]
+reverse link discounts to customers--><path codeLine="144" d="M1754.5,355.7651 C1754.5,355.7651 1754.5,489.9531 1754.5,489.9531 C1754.5,489.9531 1419.08,489.9531 1288.06,489.9531 " fill="none" id="discounts-backto-customers" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="1754.5,350.7651,1750.5,359.7651,1754.5,355.7651,1758.5,359.7651,1754.5,350.7651" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[797e343b3d26a150869d1ac0152c2393]
+reverse link extentions to subscribers--><path codeLine="145" d="M1774,218.5231 C1774,218.5231 1774,298.9531 1774,298.9531 C1774,298.9531 1627.6,298.9531 1544.1,298.9531 " fill="none" id="extentions-backto-subscribers" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="1774,213.5231,1770,222.5231,1774,218.5231,1778,222.5231,1774,213.5231" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[1847c071fbc51bbded262f164bb23805]
+reverse link gains to customers--><path codeLine="146" d="M1158.3,339.9531 C1158.3,339.9531 1188.88,339.9531 1188.88,339.9531 C1188.88,339.9531 1188.88,403.6221 1188.88,455.8501 " fill="none" id="gains-backto-customers" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="1153.3,339.9531,1162.3,343.9531,1158.3,339.9531,1162.3,335.9531,1153.3,339.9531" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[13f42c478659fad921e5665d57f9719d]
+reverse link memberships to subscribers--><path codeLine="147" d="M1331.5,218.7611 C1331.5,218.7611 1331.5,288.9531 1331.5,288.9531 C1331.5,288.9531 1386.13,288.9531 1430.74,288.9531 " fill="none" id="memberships-backto-subscribers" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="1331.5,213.7611,1327.5,222.7611,1331.5,218.7611,1335.5,222.7611,1331.5,213.7611" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[1f65358e6431e2ca3da53b4c6438ab7c]
+reverse link paymentdocuments to accounts--><path d="M89.5,218.6351 C89.5,218.6351 89.5,219.9531 89.5,219.9531 C89.5,219.9531 614.5,219.9531 614.5,219.9531 C614.5,219.9531 614.5,298.8421 614.5,328.4251 " fill="none" id="paymentdocuments-backto-accounts" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="89.5,213.6351,85.5,222.6351,89.5,218.6351,93.5,222.6351,89.5,213.6351" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[1a6b226ded2d3e153888753f2eb6cc5f]
+reverse link phonenumbers to callusergroups--><path d="M1696.5,54.9851 C1696.5,54.9851 1696.5,104.9411 1696.5,104.9411 " fill="none" id="phonenumbers-backto-callusergroups" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="1696.5,49.9851,1692.5,58.9851,1696.5,54.9851,1700.5,58.9851,1696.5,49.9851" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[ff04af38e914d94deaa9e22cf0bca0ef]
+reverse link profiles to associations--><path codeLine="150" d="M1056.27,202.9531 C1056.27,202.9531 1085.67,202.9531 1085.67,202.9531 C1085.67,202.9531 1085.67,519.6671 1085.67,644.6211 " fill="none" id="profiles-backto-associations" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="1051.27,202.9531,1060.27,206.9531,1056.27,202.9531,1060.27,198.9531,1051.27,202.9531" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[dee4eff7e283099cde33a573898084c8]
+reverse link profiles to customers--><path codeLine="151" d="M1001,218.6351 C1001,218.6351 1001,478.9531 1001,478.9531 C1001,478.9531 1115.5,478.9531 1184.82,478.9531 " fill="none" id="profiles-backto-customers" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="1001,213.6351,997,222.6351,1001,218.6351,1005,222.6351,1001,213.6351" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[6d050d7ef45c1696270af2faf6611d23]
+reverse link profiles to subscribers--><path codeLine="152" d="M1026,218.8501 C1026,218.8501 1026,308.9531 1026,308.9531 C1026,308.9531 1307.68,308.9531 1430.91,308.9531 " fill="none" id="profiles-backto-subscribers" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="1026,213.8501,1022,222.8501,1026,218.8501,1030,222.8501,1026,213.8501" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[6b5acbcc2961005b78e39ee1a093266c]
+reverse link servicesubscriptions to templatesubscriptions--><path d="M1487.5,54.9851 C1487.5,54.9851 1487.5,104.9411 1487.5,104.9411 " fill="none" id="servicesubscriptions-backto-templatesubscriptions" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="1487.5,49.9851,1483.5,58.9851,1487.5,54.9851,1491.5,58.9851,1487.5,49.9851" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[ea7c050b57676b601941e2f1b74f48f2]
+reverse link subscribers to customers--><path codeLine="154" d="M1425.88,375.9531 C1425.88,375.9531 1272,375.9531 1272,375.9531 C1272,375.9531 1272,417.1361 1272,455.9061 " fill="none" id="subscribers-backto-customers" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="1430.88,375.9531,1421.88,371.9531,1425.88,375.9531,1421.88,379.9531,1430.88,375.9531" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[448ab637f70bed56786d00e18b5ef31d]
+reverse link templatesubscriptions to agreements--><path codeLine="155" d="M1487.5,132.2611 C1487.5,132.2611 1487.5,181.8611 1487.5,181.8611 " fill="none" id="templatesubscriptions-backto-agreements" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="1487.5,127.2611,1483.5,136.2611,1487.5,132.2611,1491.5,136.2611,1487.5,127.2611" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[d37b5a52d29fac060f9d470be73ddf77]
+reverse link treenodeproperties to associations--><path codeLine="156" d="M2025.5,218.7381 C2025.5,218.7381 2025.5,677.9531 2025.5,677.9531 C2025.5,677.9531 1385.55,677.9531 1184.31,677.9531 " fill="none" id="treenodeproperties-backto-associations" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="2025.5,213.7381,2021.5,222.7381,2025.5,218.7381,2029.5,222.7381,2025.5,213.7381" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[386e098762e49c0d15d83e48adbe01f4]
+reverse link treenodeproperties to customers--><path codeLine="157" d="M1984.5,218.4851 C1984.5,218.4851 1984.5,522.9531 1984.5,522.9531 C1984.5,522.9531 1457.52,522.9531 1288.21,522.9531 " fill="none" id="treenodeproperties-backto-customers" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="1984.5,213.4851,1980.5,222.4851,1984.5,218.4851,1988.5,222.4851,1984.5,213.4851" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[9d5b28de336290b909973fe839368815]
+reverse link treenodeproperties to subscribers--><path codeLine="158" d="M1943.5,218.8501 C1943.5,218.8501 1943.5,308.9531 1943.5,308.9531 C1943.5,308.9531 1666.57,308.9531 1544.33,308.9531 " fill="none" id="treenodeproperties-backto-subscribers" style="stroke:#000000;stroke-width:1.5;"/><polygon fill="#000000" points="1943.5,213.8501,1939.5,222.8501,1943.5,218.8501,1947.5,222.8501,1943.5,213.8501" style="stroke:#000000;stroke-width:1.5;"/><!--MD5=[8b3bc5fc5223a2812db07504f3598d55]
+@startuml
+skinparam ComponentStyle uml2
+
+skinparam linetype ortho
+skinparam ArrowColor #000
+
+skinparam CardBorderThickness 2
+skinparam CardBackgroundColor #ffffff
+skinparam CardBorderColor #A80036
+
+skinparam ObjectFontSize 15
+skinparam ObjectBorderThickness 2
+skinparam ObjectBackgroundColor #ffffff
+
+skinparam nodesep 55
+skinparam ranksep 55
+
+skinparam ObjectBackgroundColor #ffffff
+skinparam ObjectAttributeFontColor #ff0000
+
+skinparam Sequence      {
+    ArrowThickness 1.5
+    ActorBorderThickness 3
+    ParticipantBorderThickness 3
+}
+title Relations Diagram
+card "accounts" as accounts{
+}
+card "accounttaxes" as accounttaxes{
+}
+object " addresses " as addresses{
+}
+
+addresses : sync
+
+
+card "adjustments" as adjustments{
+}
+object " agreements " as agreements{
+}
+
+agreements : changetariffs
+
+
+object " associations " as associations{
+}
+
+associations : activate
+associations : changename
+associations : changeparent
+associations : changestatus
+associations : deactivate
+associations : setlabels
+
+
+card "authcodes" as authcodes{
+}
+card "bankdetails" as bankdetails{
+}
+card "billingtasks" as billingtasks{
+}
+card "callcredits" as callcredits{
+}
+card "callusergroups" as callusergroups{
+}
+card "contracts" as contracts{
+}
+card "customerpayments" as customerpayments{
+}
+object " customers " as customers{
+}
+
+customers : activate
+customers : calccharges
+customers : changename
+customers : changeparent
+customers : changestatus
+customers : deactivate
+customers : postponeinvoice
+customers : setlabels
+customers : sync
+
+
+card "discounts" as discounts{
+}
+card "extentions" as extentions{
+}
+card "gains" as gains{
+}
+card "memberships" as memberships{
+}
+card "networks/clearlogins" as networks_clearlogins{
+}
+card "paymentdocuments" as paymentdocuments{
+}
+card "paymentregistry" as paymentregistry{
+}
+card "phonenumbers" as phonenumbers{
+}
+card "portabilitynumbers" as portabilitynumbers{
+}
+card "profiles" as profiles{
+}
+card "servicesubscriptions" as servicesubscriptions{
+}
+object " subscribers " as subscribers{
+}
+
+subscribers : activate
+subscribers : calccharges
+subscribers : changeaccount
+subscribers : changename
+subscribers : changestatus
+subscribers : deactivate
+subscribers : recharge
+subscribers : setlabels
+
+
+card "tasks" as tasks{
+}
+card "templatesubscriptions" as templatesubscriptions{
+}
+card "treenodeproperties" as treenodeproperties{
+}
+accounts <- - customers
+accounttaxes <- - accounts
+addresses <- - associations
+addresses <- - customers
+addresses <- - subscribers
+adjustments <- - accounts
+agreements <- - subscribers
+associations <- - associations
+authcodes <- - customers
+authcodes <- - subscribers
+bankdetails <- - associations
+bankdetails <- - customers
+billingtasks <- - accounts
+callcredits <- - subscribers
+contracts <- - associations
+contracts <- - customers
+contracts <- - subscribers
+customerpayments <- - accounts
+customerpayments <- - paymentdocuments
+customers <- - associations
+discounts <- - customers
+extentions <- - subscribers
+gains <- - customers
+memberships <- - subscribers
+paymentdocuments <- - accounts
+phonenumbers <- - callusergroups
+profiles <- - associations
+profiles <- - customers
+profiles <- - subscribers
+servicesubscriptions <- - templatesubscriptions
+subscribers <- - customers
+templatesubscriptions <- - agreements
+treenodeproperties <- - associations
+treenodeproperties <- - customers
+treenodeproperties <- - subscribers
+@enduml
+
+PlantUML version 1.2021.10beta2(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

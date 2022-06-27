@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://mef.dev/</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://mef.dev/plugin_basics/introduction.php</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mef.dev/plugin_basics/platform_architecture.php</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mef.dev/backend_uIs_plugin/first_backend_plugin.php</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mef.dev/backend_uIs_plugin/first_ui_plugin.php</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mef.dev/rest_api/using_rest_api.php</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mef.dev/rest_api/api_caching.php</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mef.dev/rest_api/http_method_request_formats.php</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/</loc>
+  <lastmod>2021-03-15T21:17:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.html</loc>
+  <lastmod>2021-02-22T19:56:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mef.dev/en/</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mef.dev/uk/</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://mef.dev/en/plugin_basics/introduction.php</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/uk/plugin_basics/introduction.php</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/plugin_basics/</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/en/plugin_basics/platform_architecture.php</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/uk/plugin_basics/platform_architecture.php</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/en/backend_uIs_plugin/first_backend_plugin.php</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/uk/backend_uIs_plugin/first_backend_plugin.php</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/backend_uIs_plugin/</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/en/backend_uIs_plugin/first_ui_plugin.php</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/uk/backend_uIs_plugin/first_ui_plugin.php</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/en/rest_api/using_rest_api.php</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/uk/rest_api/using_rest_api.php</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/rest_api/</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/en/rest_api/api_caching.php</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/uk/rest_api/api_caching.php</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/en/rest_api/http_method_request_formats.php</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/uk/rest_api/http_method_request_formats.php</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.AccountsRequest.html</loc>
+  <lastmod>2021-02-22T19:56:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.AccountTaxesRequest.html</loc>
+  <lastmod>2021-02-22T19:56:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.AddressesRequest.html</loc>
+  <lastmod>2021-02-22T19:56:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.AddressesSyncRequest.html</loc>
+  <lastmod>2021-02-22T19:56:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.AdjustmentsRequest.html</loc>
+  <lastmod>2021-02-22T19:56:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.AgreementsChangeTariffs.html</loc>
+  <lastmod>2021-02-22T19:56:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.AgreementsRequest.html</loc>
+  <lastmod>2021-02-22T19:56:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.AssociationsChangeName.html</loc>
+  <lastmod>2021-02-22T19:56:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.AssociationsChangeParent.html</loc>
+  <lastmod>2021-02-22T19:56:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.AssociationsChangeStatus.html</loc>
+  <lastmod>2021-02-22T19:56:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.AssociationsRequest.html</loc>
+  <lastmod>2021-02-22T19:56:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.AuthCodesRequest.html</loc>
+  <lastmod>2021-02-22T19:56:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.BankDetailsRequest.html</loc>
+  <lastmod>2021-02-22T19:56:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.BillingTasksRequest.html</loc>
+  <lastmod>2021-02-22T19:56:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.CallCreditsRequest.html</loc>
+  <lastmod>2021-02-22T19:56:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.CallUserGroupsRequest.html</loc>
+  <lastmod>2021-02-22T19:56:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.ChangeaccountRequest.html</loc>
+  <lastmod>2021-02-22T19:56:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.ContractsRequest.html</loc>
+  <lastmod>2021-02-22T19:56:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.CreateTaskRequest.html</loc>
+  <lastmod>2021-02-22T19:56:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.CustomerPaymentsRequest.html</loc>
+  <lastmod>2021-02-22T19:56:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.CustomersCalcCharges.html</loc>
+  <lastmod>2021-02-22T19:56:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.CustomersChangeName.html</loc>
+  <lastmod>2021-02-22T19:56:43+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.CustomersChangeParent.html</loc>
+  <lastmod>2021-02-22T19:56:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.CustomersPostponeinvoice.html</loc>
+  <lastmod>2021-02-22T19:56:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.CustomersRequest.html</loc>
+  <lastmod>2021-02-22T19:56:44+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.DiscountsRequest.html</loc>
+  <lastmod>2021-02-22T19:56:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.ExtentionsRequest.html</loc>
+  <lastmod>2021-02-22T19:56:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.GainsRequest.html</loc>
+  <lastmod>2021-02-22T19:56:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.MembershipsRequest.html</loc>
+  <lastmod>2021-02-22T19:56:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.NetworkRequestClearLoginAction.html</loc>
+  <lastmod>2021-02-22T19:56:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.NetworksRequest.html</loc>
+  <lastmod>2021-02-22T19:56:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.PaymentDocumentsRequest.html</loc>
+  <lastmod>2021-02-22T19:56:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.PhoneNumbersRequest.html</loc>
+  <lastmod>2021-02-22T19:56:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.PortabilityNumbersRequest.html</loc>
+  <lastmod>2021-02-22T19:56:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.ProfilesRequest.html</loc>
+  <lastmod>2021-02-22T19:56:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.ServiceSubscriptionsRequest.html</loc>
+  <lastmod>2021-02-22T19:56:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.SubscribersActivateRequest.html</loc>
+  <lastmod>2021-02-22T19:56:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.SubscribersCalcCharges.html</loc>
+  <lastmod>2021-02-22T19:56:48+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.SubscribersChangeName.html</loc>
+  <lastmod>2021-02-22T19:56:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.SubscribersDeactivateRequest.html</loc>
+  <lastmod>2021-02-22T19:56:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.SubscribersRechargeRequest.html</loc>
+  <lastmod>2021-02-22T19:56:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.SubscribersRequest.html</loc>
+  <lastmod>2021-02-22T19:56:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.TasksRequest.html</loc>
+  <lastmod>2021-02-22T19:56:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.TemplateSubscriptionsRequest.html</loc>
+  <lastmod>2021-02-22T19:56:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.TestsResult.html</loc>
+  <lastmod>2021-02-22T19:56:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.TreeNodePropertiesRequest.html</loc>
+  <lastmod>2021-02-22T19:56:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.TreeNodesChangeParent.html</loc>
+  <lastmod>2021-02-22T19:56:49+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Entities.TreeNodesRequest.html</loc>
+  <lastmod>2021-02-22T19:56:51+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://mef.dev/en/plugin_basics/</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/uk/plugin_basics/</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/en/backend_uIs_plugin/</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/uk/backend_uIs_plugin/</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/en/rest_api/</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/uk/rest_api/</loc>
+  <lastmod>2021-04-15T10:58:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Accounts_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:56:50+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.AccountTaxes_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:56:51+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Addresses_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:56:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Addresses_Sync_Request_ACTION.html</loc>
+  <lastmod>2021-02-22T19:56:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Adjustments_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:56:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Agreements_ChangeTariffs_Request_ACTION.html</loc>
+  <lastmod>2021-02-22T19:56:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Agreements_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:56:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Associations_ChangeName_Request_ACTION.html</loc>
+  <lastmod>2021-02-22T19:56:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Associations_ChangeParent_Request_ACTION.html</loc>
+  <lastmod>2021-02-22T19:56:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Associations_ChangeStatus_Request_ACTION.html</loc>
+  <lastmod>2021-02-22T19:56:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Associations_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:56:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.AuthCodes_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:56:55+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.BankDetails_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:56:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.BillingTasks_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:56:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.CallCredits_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:56:56+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.CallUserGroups_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:56:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_ChangeAccount_Request_ACTION.html</loc>
+  <lastmod>2021-02-22T19:57:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Contracts_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:56:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.CustomerPayments_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:56:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Customers_CalcCharges_Request_ACTION.html</loc>
+  <lastmod>2021-02-22T19:56:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Customers_ChangeName_Request_ACTION.html</loc>
+  <lastmod>2021-02-22T19:56:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Customers_ChangeParent_Request_ACTION.html</loc>
+  <lastmod>2021-02-22T19:56:59+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Customers_postponeInvoice_Request_ACTION.html</loc>
+  <lastmod>2021-02-22T19:57:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Customers_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:57:00+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Discounts_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:57:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Extentions_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:57:02+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Gains_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:57:03+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Memberships_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:57:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Networks_ClearLogins_Request_ACTION.html</loc>
+  <lastmod>2021-02-22T19:57:07+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.PaymentDocuments_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:57:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.PhoneNumbers_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:57:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.PortabilityNumbers_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:57:08+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Profiles_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:57:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.ServiceSubscriptions_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:57:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_Activate_Request_ACTION.html</loc>
+  <lastmod>2021-02-22T19:57:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_CalcCharges_Request_ACTION.html</loc>
+  <lastmod>2021-02-22T19:57:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_ChangeName_Request_ACTION.html</loc>
+  <lastmod>2021-02-22T19:57:12+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_Deactivate_Request_ACTION.html</loc>
+  <lastmod>2021-02-22T19:57:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_Recharge_Request_ACTION.html</loc>
+  <lastmod>2021-02-22T19:57:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:57:13+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Tasks_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:57:14+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.TemplateSubscriptions_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:57:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.TreeNodeProperties_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:57:16+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.html</loc>
+  <lastmod>2021-02-22T19:57:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Accounts_Request_GET.html</loc>
+  <lastmod>2021-02-22T19:56:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Accounts_Response_GET.html</loc>
+  <lastmod>2021-02-22T19:56:50+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Accounts_Response_GET_OUTPUT.html</loc>
+  <lastmod>2021-02-22T19:56:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Accounts_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:56:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.AccountTaxes_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:56:51+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Addresses_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:56:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Addresses_Sync_Response_ACTION.html</loc>
+  <lastmod>2021-02-22T19:56:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Adjustments_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:56:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Agreements_ChangeTariffs_Response_ACTION.html</loc>
+  <lastmod>2021-02-22T19:56:53+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Agreements_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:56:53+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Associations_ChangeName_Response_ACTION.html</loc>
+  <lastmod>2021-02-22T19:56:53+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Associations_ChangeParent_Response_ACTION.html</loc>
+  <lastmod>2021-02-22T19:56:53+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Associations_ChangeStatus_Response_ACTION.html</loc>
+  <lastmod>2021-02-22T19:56:54+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Associations_Request_GET.html</loc>
+  <lastmod>2021-02-22T19:56:54+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Associations_Request_GETBYID.html</loc>
+  <lastmod>2021-02-22T19:56:54+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Associations_Response_GET.html</loc>
+  <lastmod>2021-02-22T19:56:54+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Associations_Response_GET_OUTPUT.html</loc>
+  <lastmod>2021-02-22T19:56:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Associations_Response_GETBYID.html</loc>
+  <lastmod>2021-02-22T19:56:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Associations_Response_GETBYID_OUTPUT.html</loc>
+  <lastmod>2021-02-22T19:56:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Associations_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:56:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.AuthCodes_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:56:55+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.BankDetails_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:56:56+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.BillingTasks_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:56:56+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.CallCredits_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:56:56+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.CallUserGroups_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:56:57+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Contracts_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:56:57+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.ConvertService.html</loc>
+  <lastmod>2021-02-22T19:56:57+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.CustomerAccounts_Request_GET.html</loc>
+  <lastmod>2021-02-22T19:56:57+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.CustomerAccounts_Response_GET.html</loc>
+  <lastmod>2021-02-22T19:56:57+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.CustomerAccounts_Response_GET_OUTPUT.html</loc>
+  <lastmod>2021-02-22T19:56:58+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.CustomerExtentions_Request_GET.html</loc>
+  <lastmod>2021-02-22T19:56:58+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.CustomerExtentions_Response_GET.html</loc>
+  <lastmod>2021-02-22T19:56:58+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.CustomerExtentions_Response_GET_OUTPUT.html</loc>
+  <lastmod>2021-02-22T19:56:58+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.CustomerPayments_Request_GET.html</loc>
+  <lastmod>2021-02-22T19:56:58+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.CustomerPayments_Response_GET.html</loc>
+  <lastmod>2021-02-22T19:56:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.CustomerPayments_Response_GET_OUTPUT.html</loc>
+  <lastmod>2021-02-22T19:56:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.CustomerPayments_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:56:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Customers_CalcCharges_Response_ACTION.html</loc>
+  <lastmod>2021-02-22T19:56:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Customers_ChangeName_Response_ACTION.html</loc>
+  <lastmod>2021-02-22T19:56:59+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Customers_ChangeParent_Response_ACTION.html</loc>
+  <lastmod>2021-02-22T19:57:00+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Customers_ChangeStatus_Request_ACTION.html</loc>
+  <lastmod>2021-02-22T19:57:00+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Customers_ChangeStatus_Response_ACTION.html</loc>
+  <lastmod>2021-02-22T19:57:00+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Customers_Request_GET.html</loc>
+  <lastmod>2021-02-22T19:57:00+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Customers_Request_GETBYID.html</loc>
+  <lastmod>2021-02-22T19:57:00+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Customers_Response_GET.html</loc>
+  <lastmod>2021-02-22T19:57:00+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Customers_Response_GET_OUTPUT.html</loc>
+  <lastmod>2021-02-22T19:57:01+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Customers_Response_GETBYID.html</loc>
+  <lastmod>2021-02-22T19:57:01+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Customers_Response_GETBYID_OUTPUT.html</loc>
+  <lastmod>2021-02-22T19:57:01+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Customers_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:57:01+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.CustomerTypes_Request_GET.html</loc>
+  <lastmod>2021-02-22T19:57:01+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.CustomerTypes_Response_GET.html</loc>
+  <lastmod>2021-02-22T19:57:02+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.CustomerTypes_Response_GET_OUTPUT.html</loc>
+  <lastmod>2021-02-22T19:57:02+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.DB.html</loc>
+  <lastmod>2021-02-22T19:57:02+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.DB.ProceduresCollection.html</loc>
+  <lastmod>2021-02-22T19:57:02+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.DB.TablesCollection.html</loc>
+  <lastmod>2021-02-22T19:57:02+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Discounts_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:57:02+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.EmptyModel.html</loc>
+  <lastmod>2021-02-22T19:57:02+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Extentions_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:57:03+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.FilterDates_Request_GET.html</loc>
+  <lastmod>2021-02-22T19:57:03+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.FilterDates_Response_GET.html</loc>
+  <lastmod>2021-02-22T19:57:03+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.FilterDates_Response_GET_OUTPUT.html</loc>
+  <lastmod>2021-02-22T19:57:03+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Gains_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:57:03+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.InvoicePayments_Request_GET.html</loc>
+  <lastmod>2021-02-22T19:57:04+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.InvoicePayments_Response_GET.html</loc>
+  <lastmod>2021-02-22T19:57:04+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.InvoicePayments_Response_GET_OUTPUT.html</loc>
+  <lastmod>2021-02-22T19:57:07+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.ListNumbers_Request_GET.html</loc>
+  <lastmod>2021-02-22T19:57:04+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.ListNumbers_Request_SET.html</loc>
+  <lastmod>2021-02-22T19:57:05+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.ListNumbers_Response_GET.html</loc>
+  <lastmod>2021-02-22T19:57:05+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.ListNumbers_Response_GET_OUTPUT.html</loc>
+  <lastmod>2021-02-22T19:57:05+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.ListNumbers_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:57:05+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Memberships_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:57:06+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Networks_ClearLogins_Response_ACTION.html</loc>
+  <lastmod>2021-02-22T19:57:07+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Networks_Request_GET.html</loc>
+  <lastmod>2021-02-22T19:57:07+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Networks_Response_GET.html</loc>
+  <lastmod>2021-02-22T19:57:07+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Networks_Response_GET_OUTPUT.html</loc>
+  <lastmod>2021-02-22T19:57:07+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.p_get_ListID_CallModel.html</loc>
+  <lastmod>2021-02-22T19:57:09+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.p_get_ServiceTaskData_CallModel.html</loc>
+  <lastmod>2021-02-22T19:57:09+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.p_get_ServiceTaskData_ResultModel.html</loc>
+  <lastmod>2021-02-22T19:57:09+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.p_get_ServiceTaskData_ResultModel_Back.html</loc>
+  <lastmod>2021-02-22T19:57:10+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.p_get_Tasks_CallModel.html</loc>
+  <lastmod>2021-02-22T19:57:10+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.p_get_Tasks_ResultModel.html</loc>
+  <lastmod>2021-02-22T19:57:10+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.p_set_Task_CallModel.html</loc>
+  <lastmod>2021-02-22T19:57:10+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.p_srh_get_ListID_CallModel.html</loc>
+  <lastmod>2021-02-22T19:57:10+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.p_ucp_get_TaskProcessList_ResultModel.html</loc>
+  <lastmod>2021-02-22T19:57:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.PaymentDocuments_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:57:08+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.PhoneNumbers_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:57:08+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.PortabilityNumbers_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:57:08+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Profiles_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:57:09+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.ProviderBankDetails_Request_GET.html</loc>
+  <lastmod>2021-02-22T19:57:09+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.ProviderBankDetails_Response_GET.html</loc>
+  <lastmod>2021-02-22T19:57:09+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.ProviderBankDetails_Response_GET_OUTPUT.html</loc>
+  <lastmod>2021-02-22T19:57:09+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.ServiceSubscriptions_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:57:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_Activate_Response_ACTION.html</loc>
+  <lastmod>2021-02-22T19:57:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_CalcCharges_Response_ACTION.html</loc>
+  <lastmod>2021-02-22T19:57:11+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_ChangeAccount_Response_ACTION.html</loc>
+  <lastmod>2021-02-22T19:57:12+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_ChangeName_Response_ACTION.html</loc>
+  <lastmod>2021-02-22T19:57:12+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_ChangeStatus_Request_ACTION.html</loc>
+  <lastmod>2021-02-22T19:57:12+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_ChangeStatus_Response_ACTION.html</loc>
+  <lastmod>2021-02-22T19:57:12+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_Deactivate_Response_ACTION.html</loc>
+  <lastmod>2021-02-22T19:57:13+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_Recharge_Response_ACTION.html</loc>
+  <lastmod>2021-02-22T19:57:13+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_Request_GET.html</loc>
+  <lastmod>2021-02-22T19:57:13+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_Request_GETBYID.html</loc>
+  <lastmod>2021-02-22T19:57:13+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_Response_GET.html</loc>
+  <lastmod>2021-02-22T19:57:13+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_Response_GET_OUTPUT.html</loc>
+  <lastmod>2021-02-22T19:57:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_Response_GETBYID.html</loc>
+  <lastmod>2021-02-22T19:57:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_Response_GETBYID_OUTPUT.html</loc>
+  <lastmod>2021-02-22T19:57:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Subscribers_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:57:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.TaskDataCommonCallModel.html</loc>
+  <lastmod>2021-02-22T19:57:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.Tasks_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:57:14+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.TemplateSubscriptions_Request_GET.html</loc>
+  <lastmod>2021-02-22T19:57:15+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.TemplateSubscriptions_Response_GET.html</loc>
+  <lastmod>2021-02-22T19:57:15+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.TemplateSubscriptions_Response_GET_OUTPUT.html</loc>
+  <lastmod>2021-02-22T19:57:15+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.TemplateSubscriptions_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:57:15+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.TreeNodeHistory_Request_GET.html</loc>
+  <lastmod>2021-02-22T19:57:16+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.TreeNodeHistory_Response_GET.html</loc>
+  <lastmod>2021-02-22T19:57:16+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.TreeNodeHistory_Response_GET_OUTPUT.html</loc>
+  <lastmod>2021-02-22T19:57:16+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://mef.dev/api/Natec.Widecoup.TreeNodeProperties_Response_SET.html</loc>
+  <lastmod>2021-02-22T19:57:16+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
+</urlset>

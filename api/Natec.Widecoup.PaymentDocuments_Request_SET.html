@@ -1,0 +1,1273 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class PaymentDocuments_Request_SET
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class PaymentDocuments_Request_SET
+   ">
+    <meta name="generator" content="docfx 1.0.1.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <link href="//cdn.rawgit.com/noelboss/featherlight/1.7.6/release/featherlight.min.css" type="text/css" rel="stylesheet">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+  </head>  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET">
+  
+  
+  <h1 id="Natec_Widecoup_PaymentDocuments_Request_SET" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET" class="text-break">Class PaymentDocuments_Request_SET
+  </h1><img src="PaymentDocuments_Request_SET.png">
+  <div class="markdown level0 summary"><p>null</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><span class="xref">PaymentDocuments_Request_SET</span></div>
+      <div class="level2"><a class="xref" href="Natec.Entities.PaymentDocumentsRequest.html">PaymentDocumentsRequest</a></div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="Natec.Widecoup.html">Natec.Widecoup</a></h6>
+  <h6><strong>Assembly</strong>: Natec.Entities.dll</h6>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public class PaymentDocuments_Request_SET : BaseEntity, IPropertyIndexer</code></pre>
+  </div>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_remarks"><strong>Remarks</strong></h5>
+  <div class="markdown level0 remarks"><p>POST &lt;host&gt;[:&lt;port&gt;]/api/v1/bss/accounts/[parentid]/paymentdocuments</p>
+</div>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_examples"><strong>Examples</strong></h5>
+  <pre><code>POST : http://bis-swap-apptst:8080/api/v1/Bss/accounts/100000339/paymentdocuments.json?lang=uk
+HEADERS :
+
+Name                           Value                                                                                                                                            
+----                           -----                                                                                                                                            
+Accept                         application/json                                                                                                                                 
+Content-Type                   application/json;charset=utf-16                                                                                                                  
+Authorization                  Basic YXBpX3VzZXI6V2lkZWNvdXAx                                                                                                                   
+system                         300                                                                                                                                      
+global_unique_id               20402000000000000092                                                                                                        
+Content-Length                 844                                                                                                                                              
+
+CONTENT :
+{
+    &quot;ReestrDate&quot;:  &quot;2019-07-01T00:00:00&quot;,
+    &quot;IDType&quot;:  1,
+    &quot;Amount&quot;:  &quot;1000.50&quot;,
+    &quot;Moved&quot;:  1,
+    &quot;Annul&quot;:  0,
+    &quot;PayClass&quot;:  2,
+    &quot;PayDate&quot;:  &quot;2019-07-01T21:31:00.1156157 03:00&quot;,
+    &quot;EffectiveDate&quot;:  &quot;2019-07-01T21:32:00.1156172 03:00&quot;,
+    &quot;PayInterfaceID&quot;:  1,
+    &quot;DealerId&quot;:  1515,
+    &quot;PayDocNumber&quot;:  &quot;чек_1234567890&quot;,
+    &quot;KassaID&quot;:  602,
+    &quot;Remark&quot;:  &quot;Ввод кассового платежного документа&quot;,
+    &quot;CurrencyCode&quot;:  &quot;UAH&quot;
+}</code></pre>
+
+  <h3 id="constructors">Constructors
+  </h3>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET__ctor_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.#ctor*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET__ctor" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.#ctor">PaymentDocuments_Request_SET()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public PaymentDocuments_Request_SET()</code></pre>
+  </div>
+  <h3 id="properties">Properties
+  </h3>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_AccountNumber_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.AccountNumber*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_AccountNumber" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.AccountNumber">AccountNumber</h4>
+  <div class="markdown level1 summary"><p>Номер лицевого счета</p>
+<ul><li>ACCOUNT из справочника CLIENT_HISTORIES</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string AccountNumber { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : NULL</p>
+<p>Max length : 12</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_AccountNumber_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_Amount_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.Amount*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_Amount" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.Amount">Amount</h4>
+  <div class="markdown level1 summary"><p>Сумма платежного документа</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Decimal Amount { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Decimal</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_Amount_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_Annul_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.Annul*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_Annul" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.Annul">Annul</h4>
+  <div class="markdown level1 summary"><p>Признак необходимости аннулирования платежного документа (1 - аннулировать, 0 - нет)</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; Annul { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : 0</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_Annul_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_AnnulBy_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.AnnulBy*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_AnnulBy" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.AnnulBy">AnnulBy</h4>
+  <div class="markdown level1 summary"><p>Кем аннулирован платеж (имя пользователя из контекста приложения)</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string AnnulBy { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : NULL</p>
+<p>Max length : 50</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_AnnulBy_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_AnnulDate_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.AnnulDate*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_AnnulDate" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.AnnulDate">AnnulDate</h4>
+  <div class="markdown level1 summary"><p>Дата аннулирования платежного документа</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;DateTime&gt; AnnulDate { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.DateTime</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_AnnulDate_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_BankAccountID_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.BankAccountID*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_BankAccountID" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.BankAccountID">BankAccountID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор расчетного банковского счета (для безналичніх платежных документов)</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; BankAccountID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_BankAccountID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_BankID_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.BankID*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_BankID" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.BankID">BankID</h4>
+  <div class="markdown level1 summary"><p>Внешний ID для банка</p>
+<ul><li>BANK_ID из справочника BANKS</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; BankID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_BankID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_CurrencyCode_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.CurrencyCode*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_CurrencyCode" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.CurrencyCode">CurrencyCode</h4>
+  <div class="markdown level1 summary"><p>Код валюты платежного документа</p>
+<ul><li>UAH (Справочник Currencies)</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string CurrencyCode { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_CurrencyCode_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_DealerId_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.DealerId*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_DealerId" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.DealerId">DealerId</h4>
+  <div class="markdown level1 summary"><p>Код диллера</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; DealerId { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_DealerId_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_EffectiveDate_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.EffectiveDate*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_EffectiveDate" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.EffectiveDate">EffectiveDate</h4>
+  <div class="markdown level1 summary"><p>Дата проведения платежа в системе</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;DateTime&gt; EffectiveDate { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.DateTime</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_EffectiveDate_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_EntityName_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.EntityName*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_EntityName" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.EntityName">EntityName</h4>
+  <div class="markdown level1 summary"><p>Название сущности REST, для которой выполняется POST операция</p>
+<ul><li>зарезервировано</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string EntityName { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;&apos;</p>
+<p>Max length : 50</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_EntityName_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Path</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_ErrFormat_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ErrFormat*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_ErrFormat" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ErrFormat">ErrFormat</h4>
+  <div class="markdown level1 summary"><p>Формат вывода ошибки</p>
+<ul><li>&apos;json&apos;</li><li>&apos;xml&apos;</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string ErrFormat { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;xml&apos;</p>
+<p>Max length : 25</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_ErrFormat_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : QueryParam</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_ExportedDate_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ExportedDate*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_ExportedDate" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ExportedDate">ExportedDate</h4>
+  <div class="markdown level1 summary"><p>Дата проведения платежного документа во внешней системе (отсутствие значения говорит об отсутствии во внешней системе)</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;DateTime&gt; ExportedDate { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.DateTime</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_ExportedDate_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_ExportID_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ExportID*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_ExportID" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ExportID">ExportID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор Документа из внешней системы</p>
+<ul><li>DOC_ID из PAY_DOCS</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; ExportID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_ExportID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_ExtentionNumber_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ExtentionNumber*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_ExtentionNumber" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ExtentionNumber">ExtentionNumber</h4>
+  <div class="markdown level1 summary"><p>Номер абонента (MSISDN)</p>
+<ul><li>MSISDN из справочника NUMBER_SETS</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string ExtentionNumber { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : NULL</p>
+<p>Max length : 20</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_ExtentionNumber_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_ExternalSystemCode_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ExternalSystemCode*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_ExternalSystemCode" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ExternalSystemCode">ExternalSystemCode</h4>
+  <div class="markdown level1 summary"><p>Код внешней системы</p>
+<ul><li>зарезервировано</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string ExternalSystemCode { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;&apos;</p>
+<p>Max length : 3</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_ExternalSystemCode_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Path</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_global_unique_id_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.global_unique_id*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_global_unique_id" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.global_unique_id">global_unique_id</h4>
+  <div class="markdown level1 summary"><p>Уникальный идентификатор платежного документа в спец. формате (20 символов), включающем в себя код системы, генерирующий платежный документ</p>
+<ul><li>20 символов (включающих в себя код системы  -инициатора платежа)</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string global_unique_id { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_global_unique_id_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Header</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_ID_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ID*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_ID" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ID">ID</h4>
+  <div class="markdown level1 summary"><p>Уникальный идентификатор платежного документа в спец. формате (20 символов), включающем в себя код системы, генерирующий платежный документ</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string ID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;0&apos;</p>
+<p>Max length : 20</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_ID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Path</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_IDType_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.IDType*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_IDType" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.IDType">IDType</h4>
+  <div class="markdown level1 summary"><p>Признак передачи внешнего значения ID</p>
+<ul><li>1  - внешний ID (для BIS всегда устанавливаем в 1)</li><li>0  - внутренний ID</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; IDType { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : 1</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_IDType_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_Item_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.Item*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_Item_System_String_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.Item(System.String)">Item[String]</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public object this[string index] { get; set; }</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">index</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Object</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_KassaID_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.KassaID*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_KassaID" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.KassaID">KassaID</h4>
+  <div class="markdown level1 summary"><p>Внешний ID для кассы</p>
+<ul><li>KASS_ID из справочника KASSAS</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; KassaID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_KassaID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_LocationID_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.LocationID*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_LocationID" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.LocationID">LocationID</h4>
+  <div class="markdown level1 summary"><p>Филиал</p>
+<ul><li>BRNC_ID из справочника BRANCHES</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; LocationID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_LocationID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_ModifiedBy_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ModifiedBy*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_ModifiedBy" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ModifiedBy">ModifiedBy</h4>
+  <div class="markdown level1 summary"><p>Пользователь данного изменения</p>
+<ul><li>Username  - пользователь из контекста</li><li>NULL  -если неизвестен</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string ModifiedBy { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : NULL</p>
+<p>Max length : 50</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_ModifiedBy_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_ModifiedFrom_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ModifiedFrom*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_ModifiedFrom" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ModifiedFrom">ModifiedFrom</h4>
+  <div class="markdown level1 summary"><p>Источник данного изменения</p>
+<ul><li>IP  -адрес/имя компьютера</li><li>NULL  - если неизвестен</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string ModifiedFrom { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : NULL</p>
+<p>Max length : 50</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_ModifiedFrom_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_Moved_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.Moved*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_Moved" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.Moved">Moved</h4>
+  <div class="markdown level1 summary"><p>Признак необходимости разнесения платежного документа на платежи по лицевому счету (1- разнести, 0 - не разносить)</p>
+<ul><li>1  - разносить</li><li>0  - нет (MOVED из RECEIPTS и PAY_DOCS)</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int Moved { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><p>Default : 0</p>
+<p>Mandatory : Yes</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_Moved_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_ParentID_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ParentID*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_ParentID" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ParentID">ParentID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор лицевого счета (соответствует CustomerID)</p>
+<ul><li>CLNT_ID из справочника CLIENT_HISTORIES</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int ParentID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_ParentID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Path</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_PayClass_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.PayClass*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_PayClass" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.PayClass">PayClass</h4>
+  <div class="markdown level1 summary"><p>Класс платежа</p>
+<ul><li>2  - Авансовый платеж и т.д. (справочник PAY_CLASSES)</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; PayClass { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_PayClass_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_PayDate_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.PayDate*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_PayDate" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.PayDate">PayDate</h4>
+  <div class="markdown level1 summary"><p>Дата платежа из внешней системы (фактическая дата)</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;DateTime&gt; PayDate { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.DateTime</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_PayDate_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_PayDocNumber_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.PayDocNumber*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_PayDocNumber" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.PayDocNumber">PayDocNumber</h4>
+  <div class="markdown level1 summary"><p>Номер платежного документа (номер чека или платежки)</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string PayDocNumber { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : NULL</p>
+<p>Max length : 100</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_PayDocNumber_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_PayInterfaceID_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.PayInterfaceID*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_PayInterfaceID" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.PayInterfaceID">PayInterfaceID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор Платежного интерфейса</p>
+<ul><li>1  - Кассовый</li><li>2  - Банковский и т.д. (справочник PAY_INTERFACE)</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int PayInterfaceID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_PayInterfaceID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_ReestrDate_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ReestrDate*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_ReestrDate" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ReestrDate">ReestrDate</h4>
+  <div class="markdown level1 summary"><p>Дата реестра (для кассовых) или выписки (для безналичных платежных документов)банквоской</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;DateTime&gt; ReestrDate { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.DateTime</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_ReestrDate_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_ReestrID_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ReestrID*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_ReestrID" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ReestrID">ReestrID</h4>
+  <div class="markdown level1 summary"><p>Внешний ID для реестра</p>
+<ul><li>RSTR_ID из справочника REESTRES</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; ReestrID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_ReestrID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_ReestrNumber_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ReestrNumber*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_ReestrNumber" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.ReestrNumber">ReestrNumber</h4>
+  <div class="markdown level1 summary"><p>Номер реестра (для кассовых) или банковской выписки (для безналичных платежных документов)</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string ReestrNumber { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : NULL</p>
+<p>Max length : 30</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_ReestrNumber_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_PaymentDocuments_Request_SET_Remark_" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.Remark*"></a>
+  <h4 id="Natec_Widecoup_PaymentDocuments_Request_SET_Remark" data-uid="Natec.Widecoup.PaymentDocuments_Request_SET.Remark">Remark</h4>
+  <div class="markdown level1 summary"><p>Комментарий к документу или причины аннулирования</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string Remark { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_PaymentDocuments_Request_SET_Remark_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+    <script src="//cdn.rawgit.com/noelboss/featherlight/1.7.6/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript" src="../styles/plugin-featherlight.js"></script>
+  </body>
+</html>

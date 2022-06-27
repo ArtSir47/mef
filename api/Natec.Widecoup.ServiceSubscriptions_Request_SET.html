@@ -1,0 +1,782 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class ServiceSubscriptions_Request_SET
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class ServiceSubscriptions_Request_SET
+   ">
+    <meta name="generator" content="docfx 1.0.1.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <link href="//cdn.rawgit.com/noelboss/featherlight/1.7.6/release/featherlight.min.css" type="text/css" rel="stylesheet">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+  </head>  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET">
+  
+  
+  <h1 id="Natec_Widecoup_ServiceSubscriptions_Request_SET" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET" class="text-break">Class ServiceSubscriptions_Request_SET
+  </h1><img src="ServiceSubscriptions_Request_SET.png">
+  <div class="markdown level0 summary"><p>null</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><span class="xref">ServiceSubscriptions_Request_SET</span></div>
+      <div class="level2"><a class="xref" href="Natec.Entities.ServiceSubscriptionsRequest.html">ServiceSubscriptionsRequest</a></div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="Natec.Widecoup.html">Natec.Widecoup</a></h6>
+  <h6><strong>Assembly</strong>: Natec.Entities.dll</h6>
+  <h5 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public class ServiceSubscriptions_Request_SET : BaseEntity, IPropertyIndexer</code></pre>
+  </div>
+  <h5 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_remarks"><strong>Remarks</strong></h5>
+  <div class="markdown level0 remarks"><p>POST &lt;host&gt;[:&lt;port&gt;]/api/v1/bss/templatesubscriptions/[parentid]/servicesubscriptions</p>
+</div>
+  <h5 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_examples"><strong>Examples</strong></h5>
+  <pre><code>POST : http://bis-swap-apptst:8080/api/v1/Bss/templatesubscriptions/132314/servicesubscriptions.json?lang=ua
+HEADERS :
+Name                           Value                                                                                                                                            
+----                           -----                                                                                                                                            
+Accept                         application/json                                                                                                                                 
+Content-Type                   application/json;charset=utf-16                                                                                                                  
+Authorization                  Basic YXBpX3VzZXI6V2lkZWNvdXAx                                                                                                                   
+system                         300                                                                                                                                      
+global_unique_id               a342c94d-8f90-4f49-bd00-7be2fb38b14e                                                                                                             
+Content-Length                 722                                                                                                                                              
+
+CONTENT :
+{
+&quot;ServiceCode&quot;:&quot;8008&quot;,
+&quot;TasksJsonData&quot;:&quot;{\&quot;FRAMED-IP-ADDRESS\&quot;:\&quot;134.249.171.76\&quot;,\&quot;FRAMED-IP-NETMASK\&quot;:\&quot;255.255.255.192\&quot;,\&quot;ALC-DEFAULT-ROUTER\&quot;:\&quot;134.249.171.126\&quot;}&quot;,
+&quot;Amount&quot;:&quot;15&quot;,
+&quot;Count&quot;:1,
+&quot;DateSet&quot;:&quot;2019-07-02T00:00:00 03:00&quot;,
+&quot;DateDrop&quot;:&quot;2999-12-31T23:59:59 03:00&quot;,
+&quot;Remark&quot;:&quot;Подписка на 8008 без скидки c указанием Доп.параметров HEX&quot;,
+&quot;ModifiedBy&quot;:&quot;username&quot;,
+&quot;ModifiedFrom&quot;:&quot;BIS-SWAP-APP&quot;
+} </code></pre>
+
+  <h3 id="constructors">Constructors
+  </h3>
+  
+  
+  <a id="Natec_Widecoup_ServiceSubscriptions_Request_SET__ctor_" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.#ctor*"></a>
+  <h4 id="Natec_Widecoup_ServiceSubscriptions_Request_SET__ctor" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.#ctor">ServiceSubscriptions_Request_SET()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public ServiceSubscriptions_Request_SET()</code></pre>
+  </div>
+  <h3 id="properties">Properties
+  </h3>
+  
+  
+  <a id="Natec_Widecoup_ServiceSubscriptions_Request_SET_Amount_" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.Amount*"></a>
+  <h4 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_Amount" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.Amount">Amount</h4>
+  <div class="markdown level1 summary"><p>Явное указание суммы подписки - для переопределения цены пакета в случае использования FMC подписок (сумма списания на основании суммы платежа)</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;Decimal&gt; Amount { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Decimal</span>&gt;</td>
+        <td><p>Default : 0</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_Amount_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_ServiceSubscriptions_Request_SET_Count_" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.Count*"></a>
+  <h4 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_Count" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.Count">Count</h4>
+  <div class="markdown level1 summary"><p>Явное указание кол-ва подписки - по умолчанию подписка создается с кол-вом =1. Используется в качестве мультпликатора для подписок на услугу более одного раза в отчетном периоде.</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; Count { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : 1</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_Count_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_ServiceSubscriptions_Request_SET_DateDrop_" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.DateDrop*"></a>
+  <h4 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_DateDrop" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.DateDrop">DateDrop</h4>
+  <div class="markdown level1 summary"><p>Дата завершения подписки на услугу, время не требуется. Для разовых подписок параметр не передается или должен быть равен DateSet</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;DateTime&gt; DateDrop { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.DateTime</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_DateDrop_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_ServiceSubscriptions_Request_SET_DateSet_" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.DateSet*"></a>
+  <h4 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_DateSet" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.DateSet">DateSet</h4>
+  <div class="markdown level1 summary"><p>Дата завершения подписки на услугу, время не требуется</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;DateTime&gt; DateSet { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.DateTime</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_DateSet_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_ServiceSubscriptions_Request_SET_EffectiveDate_" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.EffectiveDate*"></a>
+  <h4 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_EffectiveDate" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.EffectiveDate">EffectiveDate</h4>
+  <div class="markdown level1 summary"><p>Эффективная дата для изменения подписки на услугу, используется как DateSet для новых изменений подписки - количества, статуса или PriceRatio</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;DateTime&gt; EffectiveDate { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.DateTime</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_EffectiveDate_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_ServiceSubscriptions_Request_SET_ErrFormat_" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.ErrFormat*"></a>
+  <h4 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_ErrFormat" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.ErrFormat">ErrFormat</h4>
+  <div class="markdown level1 summary"><p>Формат вывода ошибки</p>
+<ul><li>&apos;json&apos;</li><li>&apos;xml&apos;</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string ErrFormat { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;xml&apos;</p>
+<p>Max length : 25</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_ErrFormat_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : QueryParam</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_ServiceSubscriptions_Request_SET_ID_" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.ID*"></a>
+  <h4 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_ID" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.ID">ID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор подписки на услугу - обьединяет множественные подписи одной услуги в разное время в одно целое.</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string ID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_ID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Path</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_ServiceSubscriptions_Request_SET_Item_" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.Item*"></a>
+  <h4 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_Item_System_String_" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.Item(System.String)">Item[String]</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public object this[string index] { get; set; }</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">index</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Object</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Natec_Widecoup_ServiceSubscriptions_Request_SET_ModifiedBy_" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.ModifiedBy*"></a>
+  <h4 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_ModifiedBy" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.ModifiedBy">ModifiedBy</h4>
+  <div class="markdown level1 summary"><p>Пользователь данного изменения</p>
+<ul><li>Username  - пользователь из контекста</li><li>NULL  -если неизвестен</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string ModifiedBy { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : NULL</p>
+<p>Max length : 50</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_ModifiedBy_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_ServiceSubscriptions_Request_SET_ModifiedFrom_" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.ModifiedFrom*"></a>
+  <h4 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_ModifiedFrom" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.ModifiedFrom">ModifiedFrom</h4>
+  <div class="markdown level1 summary"><p>Источник данного изменения</p>
+<ul><li>IP  -адрес/имя компьютера</li><li>NULL  - если неизвестен</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string ModifiedFrom { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : NULL</p>
+<p>Max length : 50</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_ModifiedFrom_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_ServiceSubscriptions_Request_SET_OverrideHistory_" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.OverrideHistory*"></a>
+  <h4 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_OverrideHistory" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.OverrideHistory">OverrideHistory</h4>
+  <div class="markdown level1 summary"><ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; OverrideHistory { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_OverrideHistory_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_ServiceSubscriptions_Request_SET_PacketID_" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.PacketID*"></a>
+  <h4 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_PacketID" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.PacketID">PacketID</h4>
+  <div class="markdown level1 summary"><p>Зарезервировано</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; PacketID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_PacketID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_ServiceSubscriptions_Request_SET_ParentID_" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.ParentID*"></a>
+  <h4 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_ParentID" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.ParentID">ParentID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор подписки TemplateSubscriptions - обязательное поле для изменения записи</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int ParentID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_ParentID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Path</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_ServiceSubscriptions_Request_SET_PriceRatio_" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.PriceRatio*"></a>
+  <h4 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_PriceRatio" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.PriceRatio">PriceRatio</h4>
+  <div class="markdown level1 summary"><p>Явное переопределение стоимости услуги через коеффициент - уменьшает или увеличивает сумму подписки на основании цены из Тарифного пакета.</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;Decimal&gt; PriceRatio { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Decimal</span>&gt;</td>
+        <td><p>Default : 1</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_PriceRatio_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_ServiceSubscriptions_Request_SET_Remark_" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.Remark*"></a>
+  <h4 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_Remark" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.Remark">Remark</h4>
+  <div class="markdown level1 summary"><p>Причина изменения параметров подписки</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string Remark { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;&apos;</p>
+<p>Max length : 4000</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_Remark_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_ServiceSubscriptions_Request_SET_ServiceCode_" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.ServiceCode*"></a>
+  <h4 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_ServiceCode" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.ServiceCode">ServiceCode</h4>
+  <div class="markdown level1 summary"><p>Идентификатор услуги - значения соответствуют SRLS_ID и PRCL_ID</p>
+<ul><li>значения соответствуют SRLS_ID и PRCL_ID</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string ServiceCode { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_ServiceCode_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_ServiceSubscriptions_Request_SET_StatusID_" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.StatusID*"></a>
+  <h4 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_StatusID" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.StatusID">StatusID</h4>
+  <div class="markdown level1 summary"><p>Явное указание статуса услуги на подписке - используется для разовых подписок с целью изменения статусов услуги для подписок FMC.</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; StatusID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_StatusID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_ServiceSubscriptions_Request_SET_TaskID_" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.TaskID*"></a>
+  <h4 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_TaskID" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.TaskID">TaskID</h4>
+  <div class="markdown level1 summary"><p>Зарезервировано</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; TaskID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_TaskID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_ServiceSubscriptions_Request_SET_TaskJsonData_" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.TaskJsonData*"></a>
+  <h4 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_TaskJsonData" data-uid="Natec.Widecoup.ServiceSubscriptions_Request_SET.TaskJsonData">TaskJsonData</h4>
+  <div class="markdown level1 summary"><p>Дополнительные параметры для provisioning</p>
+<ul><li>json</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string TaskJsonData { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;&apos;</p>
+<p>Max length : -1</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_ServiceSubscriptions_Request_SET_TaskJsonData_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+    <script src="//cdn.rawgit.com/noelboss/featherlight/1.7.6/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript" src="../styles/plugin-featherlight.js"></script>
+  </body>
+</html>

@@ -1,0 +1,75 @@
+
+
+<div id="sidetoggle">
+  <div>
+    <div class="sidefilter">
+      <form class="toc-filter">
+        <span class="glyphicon glyphicon-filter filter-icon"></span>
+        <span class="glyphicon glyphicon-remove clear-icon" id="toc_filter_clear"></span>
+        <input type="text" id="toc_filter_input" placeholder="Enter here to filter..." onkeypress="if(event.keyCode==13) {return false;}">
+      </form>
+    </div>
+    <div class="sidetoc">
+      <div class="toc" id="toc">
+
+          <ul class="nav level1 navbar-nav">
+		  <div class="mob-search" style="margin: 10px 0 10px;">
+								<img src="/search.png">
+								<input id="docsearch-mob" type="text" placeholder="Search">
+							</div>
+              <li>
+                  <!-- <a href="api/index.html" name="api/toc.html" title="Api Documentation">Api Documentation</a> -->
+                  <a id="developers_menu" href="/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                      Developer's Guide
+                      <span class="caret"></span>
+                  </a>
+                  <ul class="dropdown-menu" aria-labelledby="developers_menu">
+                      <div class="inner-menu">
+                            <div>
+                                <li class="dropdown-header">Plugin basics</li>
+                                <li><a href="https://mef.dev/plugin_basics/introduction.php">Introduction</a></li>
+                                <li><a href="https://mef.dev/plugin_basics/platform_architecture.php">Platform architecture</a></li>
+                            </div>
+                            <div>
+                            <li class="dropdown-header">Plugin guides</li>
+                                <li><a href="https://mef.dev/dev_guides/first_ui_plugin.md">First UI package</a></li>
+                                <li><a href="https://mef.dev/dev_guides/upload_ui_plugin.md">Package registration</a></li>
+                                <li><a href="https://mef.dev/dev_guides/first_backend_plugin.md">Fisrt Backend package</a></li>
+                                <li><a href="https://mef.dev/dev_guides/portal_plugin.md">Portal package creation</a></li>
+                            </div>
+                            <div>
+                                <li class="dropdown-header">REST API</li>
+                                <li><a href="https://mef.dev/rest_api/using_rest_api.php">REST API using</a></li>
+                                <li><a href="https://mef.dev/rest_api/api_caching.php">API caching</a></li>
+                                <li><a href="https://mef.dev/rest_api/http_method_request_formats.php">Request Formats for HTTP Methods</a></li>
+                            </div>
+                      </div>
+                  </ul>
+              </li>
+              <li>
+                  <a href="https://community.mef.dev/">
+                      Community
+                  </a>
+              </li>
+              <li>
+                  <!-- <a href="api/index.html" name="api/toc.html" title="Api Documentation">Api Documentation</a> -->
+                  <a id="drop2" href="/api/index.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                      Documentation
+                      <span class="caret"></span>
+                  </a>
+                  <ul class="dropdown-menu" aria-labelledby="drop2">
+                      <li><a href="/bss/index.html">Telecom BSS</a></li>
+                      <!--<li><a href="/api/Natec.Entities.html">Natec.Entities</a></li>
+                      <li><a href="/api/Natec.Entities.html">Natec.Widecoup</a></li>-->
+                  </ul>
+              </li>
+			  <li><a href="http://blog.natec.tech/">Blog</a></li>
+			  <li class="search">
+								<img src="/search.png">
+								<input id="docsearch" type="text" placeholder="Search">
+							</li>
+          </ul>
+      </div>
+    </div>
+  </div>
+</div>

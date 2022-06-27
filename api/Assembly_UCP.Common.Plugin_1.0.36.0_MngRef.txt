@@ -1,0 +1,1079 @@
+{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Builders.ActionBuilder-2.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Builders.ActionBuilder-2.html",
+      "hash": "4IKoghEqXf6lBJyvOKmbng=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Builders.ActionBuilder.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Builders.ActionBuilder.html",
+      "hash": "bhrFNn2+UhdjnSRz5msTIg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Builders.Builder-2.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Builders.Builder-2.html",
+      "hash": "Se14yDlKT7VAZX2+PnCQhQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Builders.CustomEntityBuilder.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Builders.CustomEntityBuilder.html",
+      "hash": "rZNo/BcpNiPsY/MAVEcSHQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Builders.EmbeddedLinkBuilder-2.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Builders.EmbeddedLinkBuilder-2.html",
+      "hash": "isrW2CpZva1NLHbgfodHmw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Builders.EmbeddedLinkBuilder.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Builders.EmbeddedLinkBuilder.html",
+      "hash": "9Qfx5cB0xGdlFyhcgXBphA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Builders.EmbeddedRepresentationBuilder-2.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Builders.EmbeddedRepresentationBuilder-2.html",
+      "hash": "3eUiAG/bze2J9vfkmhqeXg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Builders.EmbeddedRepresentationBuilder.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Builders.EmbeddedRepresentationBuilder.html",
+      "hash": "Visoi3YinIcliyPfsqqTxA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Builders.EntityBuilder-2.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Builders.EntityBuilder-2.html",
+      "hash": "ScUSRHQi2d4B3+mrXuw0lw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Builders.EntityBuilder.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Builders.EntityBuilder.html",
+      "hash": "pJTcLV3IJLjFE5SMKSqLMA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Builders.FieldBuilder-2.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Builders.FieldBuilder-2.html",
+      "hash": "Bw1b0ZgXUfcDP6Ngxiycsg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Builders.FieldBuilder.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Builders.FieldBuilder.html",
+      "hash": "ZcpNGuC1KTPNZcUcpxeAvA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Builders.ISubEntityBuilder.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Builders.ISubEntityBuilder.html",
+      "hash": "QR0XKd9w/wWPADnrsnj4Pw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Builders.LinkBuilder-2.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Builders.LinkBuilder-2.html",
+      "hash": "CA0tTUBhkmovz+xilsLHXw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Builders.LinkBuilder.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Builders.LinkBuilder.html",
+      "hash": "LGAuuuuY7c1sulJOuM+nzw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Builders.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Builders.html",
+      "hash": "ApJXR60AX+gk5YCA1xm7Qw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Models.Action.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Models.Action.html",
+      "hash": "3f3vqia4jlQNJoAWmxDJ9g=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Models.Entity.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Models.Entity.html",
+      "hash": "hPWgEHAo3RU4mmArjVlFkA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Models.Field.FieldAttribute.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Models.Field.FieldAttribute.html",
+      "hash": "tcUAGFHB5hWEWwXHuyToDA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Models.Field.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Models.Field.html",
+      "hash": "nst/d9ymjiBxZs0v8e/afQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Models.Link.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Models.Link.html",
+      "hash": "qDj4Eqi4i/AODyUC2AjmuA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Models.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Models.html",
+      "hash": "hEWD9uskPYCN6GBoIqfo1A=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Templates.EntityTemplate-1.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Templates.EntityTemplate-1.html",
+      "hash": "tQ/+zTJBQj4pNb614ke6qw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/FluentSiren.Templates.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/FluentSiren.Templates.html",
+      "hash": "UQWvqKvtg0e9+kfmgCzBlg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.ApiContextManager.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.ApiContextManager.html",
+      "hash": "UmC5YO8u/tRiKcFufNKDJA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Attributes.DocIgnore.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Attributes.DocIgnore.html",
+      "hash": "2uObU2c00kuabStUN8Ti7A=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Attributes.DocIgnoreCurrentNamespace.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Attributes.DocIgnoreCurrentNamespace.html",
+      "hash": "HqC+khnxUCqiSWfF+AnTQQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Attributes.EntitySubentities.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Attributes.EntitySubentities.html",
+      "hash": "Pj2BO8ufbXTUboRiO2Z2EA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Attributes.EntitySubentity.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Attributes.EntitySubentity.html",
+      "hash": "w/O/OP1OmseSe3OrE+H60A=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Attributes.HATEOASPresentCheckAttribute.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Attributes.HATEOASPresentCheckAttribute.html",
+      "hash": "mLgpnI++bGds1mZTQ6yQNA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Attributes.PrimaryKey.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Attributes.PrimaryKey.html",
+      "hash": "PPnCFmpUN3IrmxnvcySGYg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Attributes.SecondaryKey.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Attributes.SecondaryKey.html",
+      "hash": "bL/3ystL0fXWCLNiio9Kbw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Attributes.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Attributes.html",
+      "hash": "+EjqQJ0zMLjtfwH5qKI8Rg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.BaseEntity.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.BaseEntity.html",
+      "hash": "URpLNJC2dWutqmdsdgz/gQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.BaseEntityPagedListData-1.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.BaseEntityPagedListData-1.html",
+      "hash": "UIUA2g6vEaTmC9Pgz60hbg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.BaseMefDto.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.BaseMefDto.html",
+      "hash": "6wMUxX5V/hZ5Cu+OEdmWIg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.BasePlatformExceptionModel.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.BasePlatformExceptionModel.html",
+      "hash": "DwXY4dvKAq2ZT14bXT9LRQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.CaseInsensitiveStringComparer.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.CaseInsensitiveStringComparer.html",
+      "hash": "MA/U1xCm3/1B3Glh41jPmw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Command.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Command.html",
+      "hash": "X4PCYJVOMW0dICDdWTUaNw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.CommonPlatformException.ErrNumbers.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.CommonPlatformException.ErrNumbers.html",
+      "hash": "hUNISGKLy2vNzj+l7FiXNg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.CommonPlatformException.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.CommonPlatformException.html",
+      "hash": "mKIPkqifo2yqPQ0kp0hdaQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.CommonPlatformExceptionModel.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.CommonPlatformExceptionModel.html",
+      "hash": "A52EoKCZR8Gfd2LSQfRxCA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Configuration.ConfigurationExtensions.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Configuration.ConfigurationExtensions.html",
+      "hash": "tRtulyRzMUrywgTDoDw4gQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Configuration.JsonStringConfigurationProvider.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Configuration.JsonStringConfigurationProvider.html",
+      "hash": "TZMsL3icDBd02IC1M6eLaQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Configuration.JsonStringConfigurationSource.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Configuration.JsonStringConfigurationSource.html",
+      "hash": "MWB1qBLoQqKz4KD7TaEvPQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Configuration.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Configuration.html",
+      "hash": "4qLOg9laz7+U807Red88Bw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.DataProviders.Http.IHtppAdapter.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.DataProviders.Http.IHtppAdapter.html",
+      "hash": "yQWkZdOyLObOkan2LUb5zA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.DataProviders.Http.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.DataProviders.Http.html",
+      "hash": "4S6Ccm//z/fhLnndm4DJtw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.DataProviders.MsSql.IMsSqlAdapter.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.DataProviders.MsSql.IMsSqlAdapter.html",
+      "hash": "OhYyJBnGVu7wee1tncJuow=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.DataProviders.MsSql.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.DataProviders.MsSql.html",
+      "hash": "fzKX9l9gIgL936xHEPt8Rw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.DataProviders.Wcf.IWcfProvider-1.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.DataProviders.Wcf.IWcfProvider-1.html",
+      "hash": "uorJE74fZvHiDRjAX4oAPg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.DataProviders.Wcf.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.DataProviders.Wcf.html",
+      "hash": "t8p+0e9z7XJAnc+d1jFhsQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.DetailPlatformExceptionModel.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.DetailPlatformExceptionModel.html",
+      "hash": "68hU5XybcT4eAijajF/fiw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.DevelopmentApiContextFactory.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.DevelopmentApiContextFactory.html",
+      "hash": "UkPtGwLxyghOMV+rfXqqkQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Filter.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Filter.html",
+      "hash": "YlP71AHQt+3Lga9exHYWUQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.FluentSirenExtension.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.FluentSirenExtension.html",
+      "hash": "2D7JzgP9UMbqN2nKNlIlyQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.FluentSirenUCPExtension.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.FluentSirenUCPExtension.html",
+      "hash": "Mm2T01cDUaPTHO6+j3MTOg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.HATEOASAttribute.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.HATEOASAttribute.html",
+      "hash": "liPFlLP2efKqSWsCmQl/GQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.HATEOASAttributeType.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.HATEOASAttributeType.html",
+      "hash": "BekhBRor9HvLFOAEIrSmOw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.HATEOASExtension.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.HATEOASExtension.html",
+      "hash": "QhjC3QFByKXpnOfRi7bWZw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.IApiContext.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.IApiContext.html",
+      "hash": "Si3zck68dqEPlpDFDiGjyQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.IApiContextFactory.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.IApiContextFactory.html",
+      "hash": "tIidAc7MYaLfXLRPDJleeA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.IApiContextProvider.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.IApiContextProvider.html",
+      "hash": "fuwB1K5hmNMhZBpIsA3Z7A=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.IApiContextValidator.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.IApiContextValidator.html",
+      "hash": "0qBhzOU70M2cp85aGDRo5g=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.IBackendPlugin.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.IBackendPlugin.html",
+      "hash": "RETOhaWinI7wO/DPO2OJGg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.IModifiedTag.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.IModifiedTag.html",
+      "hash": "BXTkfeFcDqtiQVfaA1e/lA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.IPluginCounter.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.IPluginCounter.html",
+      "hash": "D6N2aYqsN7hmbFe3M9b3EA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.IPluginMetric.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.IPluginMetric.html",
+      "hash": "BxYTKYDSRIEREsFxON+2Rg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.ITypedBackendPlugin-2.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.ITypedBackendPlugin-2.html",
+      "hash": "QjFtuhBO5Pi83ATac8xWvg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.InternalMef.IInternalBaseMef.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.InternalMef.IInternalBaseMef.html",
+      "hash": "3IY3jq+w2tDK/yntGz/z4A=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.InternalMef.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.InternalMef.html",
+      "hash": "5uLX9zSTJgmlNq+/TkMmlw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.JsonRestrictedByValueAttribute.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.JsonRestrictedByValueAttribute.html",
+      "hash": "4W4RkozrxoftSqMpPSs9Rw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.LicenseInfo.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.LicenseInfo.html",
+      "hash": "CTNOM1a93pqeodDnzSTEjQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.MefBaseClass.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.MefBaseClass.html",
+      "hash": "5k7jB3/6EWwm41Cz0FCigg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.MefConfiguration.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.MefConfiguration.html",
+      "hash": "kmHpeHUer+qOyhvOhuBOvg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Models.Config.PluginConfig.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Models.Config.PluginConfig.html",
+      "hash": "PQr4TgiktYONilUohg3Rdw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Models.Config.PluginConfigSetting.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Models.Config.PluginConfigSetting.html",
+      "hash": "Pz0QdfGpW0tMGJpoy/tc9A=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Models.Config.PluginConfigSettingType.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Models.Config.PluginConfigSettingType.html",
+      "hash": "HJWojXmsh88t0K+pmVYdmw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Models.Config.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Models.Config.html",
+      "hash": "Z0WfSc+AxcgwizmMahzngA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Models.MefStatus.MefComponentStatusDto.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Models.MefStatus.MefComponentStatusDto.html",
+      "hash": "5pNgJq2UzCc2usnlcjZO0g=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Models.MefStatus.MefStatusDto.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Models.MefStatus.MefStatusDto.html",
+      "hash": "TPdCcAhnHjNF7pmvkan9XQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Models.MefStatus.MefStatusEnum.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Models.MefStatus.MefStatusEnum.html",
+      "hash": "LLqcc6PrAPolHWmFe/SUKw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Models.MefStatus.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Models.MefStatus.html",
+      "hash": "VXYfxM9/GrPSqoYUJ/K0tg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.ModifiedTagEntity.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.ModifiedTagEntity.html",
+      "hash": "g3lNuIHTg6y1k1ulMue7bQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.ObjJsonConverter.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.ObjJsonConverter.html",
+      "hash": "QH7SGFFnBg+3JTW5Lj0/4g=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Params.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Params.html",
+      "hash": "Mm2w2YAeljsZ9QMJ4LGOWA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.PluginConfiguration.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.PluginConfiguration.html",
+      "hash": "ov32+Nl4DjIVnWHffp0BAg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.PluginExportMetadata.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.PluginExportMetadata.html",
+      "hash": "7mufgJHgBUpW5/gGdmiKFg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.ServiceUnavailableException.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.ServiceUnavailableException.html",
+      "hash": "ZNak9SNZsqy8OWMlMOrYRg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.ServiceUnavailableExceptionModel.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.ServiceUnavailableExceptionModel.html",
+      "hash": "ELGAiifLyRUvqgX6aYY6bg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Services.IPagedList-2.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Services.IPagedList-2.html",
+      "hash": "QjnT2cPvHsyC1oodn3ujKA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Services.IPluginConfigProvider.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Services.IPluginConfigProvider.html",
+      "hash": "1P3gNeWuQ3bw4jZVSKgIPQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Services.IPluginInfoProvider.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Services.IPluginInfoProvider.html",
+      "hash": "8kXV+i60Xpwp9owGvxP5sA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Services.PagedList-2.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Services.PagedList-2.html",
+      "hash": "DKbzAUBBClQAkIPSJ42zjw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.Services.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.Services.html",
+      "hash": "v4/B5zhR5jmi3hP6GwHySQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.StringErrorOptionConverter.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.StringErrorOptionConverter.html",
+      "hash": "nF9t06iWN9lidJ9zA4ID6Q=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.XmlFlatSerializableDictionary-2.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.XmlFlatSerializableDictionary-2.html",
+      "hash": "X1NewOB2BU22/JbFg7DSEQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/UCP.Common.Plugin.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/UCP.Common.Plugin.html",
+      "hash": "h3tP+i/njgNECKd7yrl8/w=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}

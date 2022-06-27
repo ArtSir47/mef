@@ -1,0 +1,348 @@
+<ul class="nav level1">
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="FluentSiren.Builders.html" name="" title="FluentSiren.Builders">FluentSiren.Builders</a>
+                    
+                    <ul class="nav level2">
+                          <li>
+                              <a href="FluentSiren.Builders.ActionBuilder.html" name="" title="ActionBuilder">ActionBuilder</a>
+                          </li>
+                          <li>
+                              <a href="FluentSiren.Builders.ActionBuilder-2.html" name="" title="ActionBuilder&lt;TBuilder, TEntity&gt;">ActionBuilder&lt;TBuilder, TEntity&gt;</a>
+                          </li>
+                          <li>
+                              <a href="FluentSiren.Builders.Builder-2.html" name="" title="Builder&lt;TBuilder, TEntity&gt;">Builder&lt;TBuilder, TEntity&gt;</a>
+                          </li>
+                          <li>
+                              <a href="FluentSiren.Builders.CustomEntityBuilder.html" name="" title="CustomEntityBuilder">CustomEntityBuilder</a>
+                          </li>
+                          <li>
+                              <a href="FluentSiren.Builders.EmbeddedLinkBuilder.html" name="" title="EmbeddedLinkBuilder">EmbeddedLinkBuilder</a>
+                          </li>
+                          <li>
+                              <a href="FluentSiren.Builders.EmbeddedLinkBuilder-2.html" name="" title="EmbeddedLinkBuilder&lt;TBuilder, TEntity&gt;">EmbeddedLinkBuilder&lt;TBuilder, TEntity&gt;</a>
+                          </li>
+                          <li>
+                              <a href="FluentSiren.Builders.EmbeddedRepresentationBuilder.html" name="" title="EmbeddedRepresentationBuilder">EmbeddedRepresentationBuilder</a>
+                          </li>
+                          <li>
+                              <a href="FluentSiren.Builders.EmbeddedRepresentationBuilder-2.html" name="" title="EmbeddedRepresentationBuilder&lt;TBuilder, TEntity&gt;">EmbeddedRepresentationBuilder&lt;TBuilder, TEntity&gt;</a>
+                          </li>
+                          <li>
+                              <a href="FluentSiren.Builders.EntityBuilder.html" name="" title="EntityBuilder">EntityBuilder</a>
+                          </li>
+                          <li>
+                              <a href="FluentSiren.Builders.EntityBuilder-2.html" name="" title="EntityBuilder&lt;TBuilder, TEntity&gt;">EntityBuilder&lt;TBuilder, TEntity&gt;</a>
+                          </li>
+                          <li>
+                              <a href="FluentSiren.Builders.FieldBuilder.html" name="" title="FieldBuilder">FieldBuilder</a>
+                          </li>
+                          <li>
+                              <a href="FluentSiren.Builders.FieldBuilder-2.html" name="" title="FieldBuilder&lt;TBuilder, TEntity&gt;">FieldBuilder&lt;TBuilder, TEntity&gt;</a>
+                          </li>
+                          <li>
+                              <a href="FluentSiren.Builders.ISubEntityBuilder.html" name="" title="ISubEntityBuilder">ISubEntityBuilder</a>
+                          </li>
+                          <li>
+                              <a href="FluentSiren.Builders.LinkBuilder.html" name="" title="LinkBuilder">LinkBuilder</a>
+                          </li>
+                          <li>
+                              <a href="FluentSiren.Builders.LinkBuilder-2.html" name="" title="LinkBuilder&lt;TBuilder, TEntity&gt;">LinkBuilder&lt;TBuilder, TEntity&gt;</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="FluentSiren.Models.html" name="" title="FluentSiren.Models">FluentSiren.Models</a>
+                    
+                    <ul class="nav level2">
+                          <li>
+                              <a href="FluentSiren.Models.Action.html" name="" title="Action">Action</a>
+                          </li>
+                          <li>
+                              <a href="FluentSiren.Models.Entity.html" name="" title="Entity">Entity</a>
+                          </li>
+                          <li>
+                              <a href="FluentSiren.Models.Field.html" name="" title="Field">Field</a>
+                          </li>
+                          <li>
+                              <a href="FluentSiren.Models.Field.FieldAttribute.html" name="" title="Field.FieldAttribute">Field.FieldAttribute</a>
+                          </li>
+                          <li>
+                              <a href="FluentSiren.Models.Link.html" name="" title="Link">Link</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="FluentSiren.Templates.html" name="" title="FluentSiren.Templates">FluentSiren.Templates</a>
+                    
+                    <ul class="nav level2">
+                          <li>
+                              <a href="FluentSiren.Templates.EntityTemplate-1.html" name="" title="EntityTemplate&lt;T&gt;">EntityTemplate&lt;T&gt;</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="UCP.Common.Plugin.html" name="" title="UCP.Common.Plugin">UCP.Common.Plugin</a>
+                    
+                    <ul class="nav level2">
+                          <li>
+                              <a href="UCP.Common.Plugin.ApiContextManager.html" name="" title="ApiContextManager">ApiContextManager</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.BaseEntity.html" name="" title="BaseEntity">BaseEntity</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.BaseEntityPagedListData-1.html" name="" title="BaseEntityPagedListData&lt;T&gt;">BaseEntityPagedListData&lt;T&gt;</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.BaseMefDto.html" name="" title="BaseMefDto">BaseMefDto</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.BasePlatformExceptionModel.html" name="" title="BasePlatformExceptionModel">BasePlatformExceptionModel</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.CaseInsensitiveStringComparer.html" name="" title="CaseInsensitiveStringComparer">CaseInsensitiveStringComparer</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.Command.html" name="" title="Command">Command</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.CommonPlatformException.html" name="" title="CommonPlatformException">CommonPlatformException</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.CommonPlatformException.ErrNumbers.html" name="" title="CommonPlatformException.ErrNumbers">CommonPlatformException.ErrNumbers</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.CommonPlatformExceptionModel.html" name="" title="CommonPlatformExceptionModel">CommonPlatformExceptionModel</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.DetailPlatformExceptionModel.html" name="" title="DetailPlatformExceptionModel">DetailPlatformExceptionModel</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.DevelopmentApiContextFactory.html" name="" title="DevelopmentApiContextFactory">DevelopmentApiContextFactory</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.Filter.html" name="" title="Filter">Filter</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.FluentSirenExtension.html" name="" title="FluentSirenExtension">FluentSirenExtension</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.FluentSirenUCPExtension.html" name="" title="FluentSirenUCPExtension">FluentSirenUCPExtension</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.HATEOASAttribute.html" name="" title="HATEOASAttribute">HATEOASAttribute</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.HATEOASAttributeType.html" name="" title="HATEOASAttributeType">HATEOASAttributeType</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.HATEOASExtension.html" name="" title="HATEOASExtension">HATEOASExtension</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.IApiContext.html" name="" title="IApiContext">IApiContext</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.IApiContextFactory.html" name="" title="IApiContextFactory">IApiContextFactory</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.IApiContextProvider.html" name="" title="IApiContextProvider">IApiContextProvider</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.IApiContextValidator.html" name="" title="IApiContextValidator">IApiContextValidator</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.IBackendPlugin.html" name="" title="IBackendPlugin">IBackendPlugin</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.IModifiedTag.html" name="" title="IModifiedTag">IModifiedTag</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.IPluginCounter.html" name="" title="IPluginCounter">IPluginCounter</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.IPluginMetric.html" name="" title="IPluginMetric">IPluginMetric</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.ITypedBackendPlugin-2.html" name="" title="ITypedBackendPlugin&lt;TRes, T&gt;">ITypedBackendPlugin&lt;TRes, T&gt;</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.JsonRestrictedByValueAttribute.html" name="" title="JsonRestrictedByValueAttribute">JsonRestrictedByValueAttribute</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.LicenseInfo.html" name="" title="LicenseInfo">LicenseInfo</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.MefBaseClass.html" name="" title="MefBaseClass">MefBaseClass</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.MefConfiguration.html" name="" title="MefConfiguration">MefConfiguration</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.ModifiedTagEntity.html" name="" title="ModifiedTagEntity">ModifiedTagEntity</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.ObjJsonConverter.html" name="" title="ObjJsonConverter">ObjJsonConverter</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.Params.html" name="" title="Params">Params</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.PluginConfiguration.html" name="" title="PluginConfiguration">PluginConfiguration</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.PluginExportMetadata.html" name="" title="PluginExportMetadata">PluginExportMetadata</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.ServiceUnavailableException.html" name="" title="ServiceUnavailableException">ServiceUnavailableException</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.ServiceUnavailableExceptionModel.html" name="" title="ServiceUnavailableExceptionModel">ServiceUnavailableExceptionModel</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.StringErrorOptionConverter.html" name="" title="StringErrorOptionConverter">StringErrorOptionConverter</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.XmlFlatSerializableDictionary-2.html" name="" title="XmlFlatSerializableDictionary&lt;TKey, TValue&gt;">XmlFlatSerializableDictionary&lt;TKey, TValue&gt;</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="UCP.Common.Plugin.Attributes.html" name="" title="UCP.Common.Plugin.Attributes">UCP.Common.Plugin.Attributes</a>
+                    
+                    <ul class="nav level2">
+                          <li>
+                              <a href="UCP.Common.Plugin.Attributes.DocIgnore.html" name="" title="DocIgnore">DocIgnore</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.Attributes.DocIgnoreCurrentNamespace.html" name="" title="DocIgnoreCurrentNamespace">DocIgnoreCurrentNamespace</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.Attributes.EntitySubentities.html" name="" title="EntitySubentities">EntitySubentities</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.Attributes.EntitySubentity.html" name="" title="EntitySubentity">EntitySubentity</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.Attributes.HATEOASPresentCheckAttribute.html" name="" title="HATEOASPresentCheckAttribute">HATEOASPresentCheckAttribute</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.Attributes.PrimaryKey.html" name="" title="PrimaryKey">PrimaryKey</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.Attributes.SecondaryKey.html" name="" title="SecondaryKey">SecondaryKey</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="UCP.Common.Plugin.Configuration.html" name="" title="UCP.Common.Plugin.Configuration">UCP.Common.Plugin.Configuration</a>
+                    
+                    <ul class="nav level2">
+                          <li>
+                              <a href="UCP.Common.Plugin.Configuration.ConfigurationExtensions.html" name="" title="ConfigurationExtensions">ConfigurationExtensions</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.Configuration.JsonStringConfigurationProvider.html" name="" title="JsonStringConfigurationProvider">JsonStringConfigurationProvider</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.Configuration.JsonStringConfigurationSource.html" name="" title="JsonStringConfigurationSource">JsonStringConfigurationSource</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="UCP.Common.Plugin.DataProviders.Http.html" name="" title="UCP.Common.Plugin.DataProviders.Http">UCP.Common.Plugin.DataProviders.Http</a>
+                    
+                    <ul class="nav level2">
+                          <li>
+                              <a href="UCP.Common.Plugin.DataProviders.Http.IHtppAdapter.html" name="" title="IHtppAdapter">IHtppAdapter</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="UCP.Common.Plugin.DataProviders.MsSql.html" name="" title="UCP.Common.Plugin.DataProviders.MsSql">UCP.Common.Plugin.DataProviders.MsSql</a>
+                    
+                    <ul class="nav level2">
+                          <li>
+                              <a href="UCP.Common.Plugin.DataProviders.MsSql.IMsSqlAdapter.html" name="" title="IMsSqlAdapter">IMsSqlAdapter</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="UCP.Common.Plugin.DataProviders.Wcf.html" name="" title="UCP.Common.Plugin.DataProviders.Wcf">UCP.Common.Plugin.DataProviders.Wcf</a>
+                    
+                    <ul class="nav level2">
+                          <li>
+                              <a href="UCP.Common.Plugin.DataProviders.Wcf.IWcfProvider-1.html" name="" title="IWcfProvider&lt;T&gt;">IWcfProvider&lt;T&gt;</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="UCP.Common.Plugin.InternalMef.html" name="" title="UCP.Common.Plugin.InternalMef">UCP.Common.Plugin.InternalMef</a>
+                    
+                    <ul class="nav level2">
+                          <li>
+                              <a href="UCP.Common.Plugin.InternalMef.IInternalBaseMef.html" name="" title="IInternalBaseMef">IInternalBaseMef</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="UCP.Common.Plugin.Models.Config.html" name="" title="UCP.Common.Plugin.Models.Config">UCP.Common.Plugin.Models.Config</a>
+                    
+                    <ul class="nav level2">
+                          <li>
+                              <a href="UCP.Common.Plugin.Models.Config.PluginConfig.html" name="" title="PluginConfig">PluginConfig</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.Models.Config.PluginConfigSetting.html" name="" title="PluginConfigSetting">PluginConfigSetting</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.Models.Config.PluginConfigSettingType.html" name="" title="PluginConfigSettingType">PluginConfigSettingType</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="UCP.Common.Plugin.Models.MefStatus.html" name="" title="UCP.Common.Plugin.Models.MefStatus">UCP.Common.Plugin.Models.MefStatus</a>
+                    
+                    <ul class="nav level2">
+                          <li>
+                              <a href="UCP.Common.Plugin.Models.MefStatus.MefComponentStatusDto.html" name="" title="MefComponentStatusDto">MefComponentStatusDto</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.Models.MefStatus.MefStatusDto.html" name="" title="MefStatusDto">MefStatusDto</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.Models.MefStatus.MefStatusEnum.html" name="" title="MefStatusEnum">MefStatusEnum</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="UCP.Common.Plugin.Services.html" name="" title="UCP.Common.Plugin.Services">UCP.Common.Plugin.Services</a>
+                    
+                    <ul class="nav level2">
+                          <li>
+                              <a href="UCP.Common.Plugin.Services.IPagedList-2.html" name="" title="IPagedList&lt;TRes, T&gt;">IPagedList&lt;TRes, T&gt;</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.Services.IPluginConfigProvider.html" name="" title="IPluginConfigProvider">IPluginConfigProvider</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.Services.IPluginInfoProvider.html" name="" title="IPluginInfoProvider">IPluginInfoProvider</a>
+                          </li>
+                          <li>
+                              <a href="UCP.Common.Plugin.Services.PagedList-2.html" name="" title="PagedList&lt;TRes, T&gt;">PagedList&lt;TRes, T&gt;</a>
+                          </li>
+                    </ul>
+                </li>
+          </ul>

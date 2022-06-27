@@ -1,0 +1,2482 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/test/Toogether/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+ {
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.AccountTaxesRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.AccountTaxesRequest.html",
+      "hash": "dbY/YZcYDnndogpsw+eCvw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.AccountsRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.AccountsRequest.html",
+      "hash": "FrlI11IK4JmUi7SntA/4LA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.AddressesRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.AddressesRequest.html",
+      "hash": "R1l+9uA/s8Cfngj7h120kQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.AddressesSyncRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.AddressesSyncRequest.html",
+      "hash": "I58FPoyVKQiIlyyLz9Iv9Q=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.AdjustmentsRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.AdjustmentsRequest.html",
+      "hash": "c4/2ttkz3z/YyM3tm5EuSg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.AgreementsChangeTariffs.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.AgreementsChangeTariffs.html",
+      "hash": "ycz8dm22St5RcpvzG+TxbQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.AgreementsRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.AgreementsRequest.html",
+      "hash": "zwqcNHdlBvAVklvGjrQjjw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.AssociationsChangeName.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.AssociationsChangeName.html",
+      "hash": "8bIpimh/I6kM6wQVaPfTig=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.AssociationsChangeParent.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.AssociationsChangeParent.html",
+      "hash": "vRca2trrRWhAdHLQTtccKg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.AssociationsChangeStatus.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.AssociationsChangeStatus.html",
+      "hash": "F1SeQktjY7hIjh/CIDGQbw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.AssociationsRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.AssociationsRequest.html",
+      "hash": "BfbYIliIk/LJOgKp4LLkcw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.AuthCodesRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.AuthCodesRequest.html",
+      "hash": "bdra6SdHF182oH20tR89Xw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.BankDetailsRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.BankDetailsRequest.html",
+      "hash": "SGDauttMEwODvp+nakI5HA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.BillingTasksRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.BillingTasksRequest.html",
+      "hash": "8x+6kfsmLv0fm3pYIxAkAQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.CallCreditsRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.CallCreditsRequest.html",
+      "hash": "XfXO20FaiCvz9siJNujM/A=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.CallUserGroupsRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.CallUserGroupsRequest.html",
+      "hash": "At+WimP2CgbENi6z/laYBA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.ChangeaccountRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.ChangeaccountRequest.html",
+      "hash": "CVoNoRIqq/R31BSdv6vzgw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.ContractsRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.ContractsRequest.html",
+      "hash": "C017eC9CsZ5r6vFwL/hLEQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.CreateTaskRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.CreateTaskRequest.html",
+      "hash": "yMiSaKcRJViR418VvwhQFg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.CustomerPaymentsRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.CustomerPaymentsRequest.html",
+      "hash": "vS/8cDSUHDIjEETJ/kjX2Q=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.CustomersCalcCharges.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.CustomersCalcCharges.html",
+      "hash": "EV6wcShUMba7/4kON0meDQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.CustomersChangeName.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.CustomersChangeName.html",
+      "hash": "XxelrkRi5B4ocPD1ejPzIA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.CustomersChangeParent.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.CustomersChangeParent.html",
+      "hash": "vh2puP9wgDxHDAxTlLHU4Q=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.CustomersPostponeinvoice.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.CustomersPostponeinvoice.html",
+      "hash": "2fgMTBBzWi3Z+AsjV8hmLA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.CustomersRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.CustomersRequest.html",
+      "hash": "/Sy0YEArUxgtW95OQUeEMA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.DiscountsRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.DiscountsRequest.html",
+      "hash": "4h5kdW1XHA00bZ1oogTRIw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.ExtentionsRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.ExtentionsRequest.html",
+      "hash": "Aykj2ng2hNIb6YNHJUzQ5w=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.GainsRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.GainsRequest.html",
+      "hash": "ChpozMOX7sYICcxekQycTg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.MembershipsRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.MembershipsRequest.html",
+      "hash": "3MXKCXRSqiU1fEs+ngzpAQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.NetworkRequestClearLoginAction.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.NetworkRequestClearLoginAction.html",
+      "hash": "7YZPPNfzMv7lbAVmTiRlLw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.NetworksRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.NetworksRequest.html",
+      "hash": "rAfuoEaP9aHcXRW3dDvvnA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.PaymentDocumentsRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.PaymentDocumentsRequest.html",
+      "hash": "Npt97/4Qpd9EP9eI8KT00w=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.PhoneNumbersRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.PhoneNumbersRequest.html",
+      "hash": "qugQTCF6bc88OOeW1GbukQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.PortabilityNumbersRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.PortabilityNumbersRequest.html",
+      "hash": "l0OI/nGIpTQ8pnTgf9BO2w=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.ProfilesRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.ProfilesRequest.html",
+      "hash": "mFkk27F6ypFJ2enhHYvjRg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.ServiceSubscriptionsRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.ServiceSubscriptionsRequest.html",
+      "hash": "sx6c5i3C0iwPA8B9cTFkmQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.SubscribersActivateRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.SubscribersActivateRequest.html",
+      "hash": "YuAxzE5h0XyHDc6tyeiWjg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.SubscribersCalcCharges.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.SubscribersCalcCharges.html",
+      "hash": "QLltHFAkUZhfUAOzTfCEYg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.SubscribersChangeName.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.SubscribersChangeName.html",
+      "hash": "+lMLAkZeaOod0mzi8YPUvw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.SubscribersDeactivateRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.SubscribersDeactivateRequest.html",
+      "hash": "IAeLfJq1Is187ZA2GOwqBA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.SubscribersRechargeRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.SubscribersRechargeRequest.html",
+      "hash": "707TIS5FXQ0tRJXa9J0wZg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.SubscribersRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.SubscribersRequest.html",
+      "hash": "wsWxL36BXhh6M/a6I6d9MQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.TasksRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.TasksRequest.html",
+      "hash": "ErG+krX7/YtLNVBq8K8oWg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.TemplateSubscriptionsRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.TemplateSubscriptionsRequest.html",
+      "hash": "4nAwCEm/kk9U5PzOVZbkOA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.TestsResult.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.TestsResult.html",
+      "hash": "kteID6wQgQpmn8MrPgMBzA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.TreeNodePropertiesRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.TreeNodePropertiesRequest.html",
+      "hash": "lzdf4CJoB6UuOoi1nee8Ow=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.TreeNodesChangeParent.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.TreeNodesChangeParent.html",
+      "hash": "mcPWysGVAt39m/c1hpSO4w=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.TreeNodesRequest.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.TreeNodesRequest.html",
+      "hash": "yS+Vh+/HeyX5TwGtjTaVBg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Entities.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Entities.html",
+      "hash": "2yWW52qzaLw5tR2PdAj9wg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.AccountTaxes_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.AccountTaxes_Request_SET.html",
+      "hash": "YkzccebKUIk5G5ia8KmzLQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.AccountTaxes_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.AccountTaxes_Response_SET.html",
+      "hash": "GJailmenIAIg9SNOnRd8UA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Accounts_Request_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Accounts_Request_GET.html",
+      "hash": "/UtOQ2uWzoY6fFXWIXCT/Q=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Accounts_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Accounts_Request_SET.html",
+      "hash": "ntFpoGE+qKqwuYngJEq8ug=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Accounts_Response_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Accounts_Response_GET.html",
+      "hash": "chAWjcSNLPGFEJzeoFwwhQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Accounts_Response_GET_OUTPUT.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Accounts_Response_GET_OUTPUT.html",
+      "hash": "nDZK+4741qgcaZ47cRHEWg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Accounts_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Accounts_Response_SET.html",
+      "hash": "OqL7Nuc/zzScDmvq1kZ0tQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Addresses_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Addresses_Request_SET.html",
+      "hash": "ohOxVr4pQBSa3xNsl9maXg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Addresses_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Addresses_Response_SET.html",
+      "hash": "QszCSugAHVAUmMBbKTGtaw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Addresses_Sync_Request_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Addresses_Sync_Request_ACTION.html",
+      "hash": "+EzY7gPzqWlJnBj1z440Qw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Addresses_Sync_Response_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Addresses_Sync_Response_ACTION.html",
+      "hash": "Z+djDPBxpyr2+BG3FPtV/g=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Adjustments_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Adjustments_Request_SET.html",
+      "hash": "fxeIyqJHfLOQo47iEjwzcQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Adjustments_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Adjustments_Response_SET.html",
+      "hash": "7qtxl42rjZVd3QLlq4WuXQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Agreements_ChangeTariffs_Request_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Agreements_ChangeTariffs_Request_ACTION.html",
+      "hash": "jNB1f+ViIG8LQdYqtM9WFw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Agreements_ChangeTariffs_Response_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Agreements_ChangeTariffs_Response_ACTION.html",
+      "hash": "1XeTaNQbiGg+t/MyGnXyOQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Agreements_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Agreements_Request_SET.html",
+      "hash": "wRsA3QoLSxX7bifBsGqzPQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Agreements_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Agreements_Response_SET.html",
+      "hash": "I3xnaFX1uT5pJla+HX/Obg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Associations_ChangeName_Request_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Associations_ChangeName_Request_ACTION.html",
+      "hash": "IFwrxV+LoneAmBS5wBcuow=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Associations_ChangeName_Response_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Associations_ChangeName_Response_ACTION.html",
+      "hash": "KW5Ctk/eFbMdHoaFa1uUoQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Associations_ChangeParent_Request_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Associations_ChangeParent_Request_ACTION.html",
+      "hash": "wbKpaZaLnDXjns7e0+4ORw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Associations_ChangeParent_Response_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Associations_ChangeParent_Response_ACTION.html",
+      "hash": "x7cdK5Y88AahXptl2wb4Ag=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Associations_ChangeStatus_Request_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Associations_ChangeStatus_Request_ACTION.html",
+      "hash": "eC3xPtWR5nSZ4E898aG4bQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Associations_ChangeStatus_Response_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Associations_ChangeStatus_Response_ACTION.html",
+      "hash": "lu0XD5H0fQaRRYAbBQBp0w=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Associations_Request_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Associations_Request_GET.html",
+      "hash": "QhnU2YOp8q2qBaLMMUWUMQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Associations_Request_GETBYID.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Associations_Request_GETBYID.html",
+      "hash": "Mouj0JLnsDKt+JjaZTChbg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Associations_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Associations_Request_SET.html",
+      "hash": "JyU7RXaUM4vsoEHDmwEcdA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Associations_Response_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Associations_Response_GET.html",
+      "hash": "bODnjvUfBZINZr49Noyo4w=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Associations_Response_GETBYID.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Associations_Response_GETBYID.html",
+      "hash": "FsmetsVr7aNcmtjSYPu4JQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Associations_Response_GETBYID_OUTPUT.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Associations_Response_GETBYID_OUTPUT.html",
+      "hash": "UdYI1E6IO5pflFbyaiYOQQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Associations_Response_GET_OUTPUT.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Associations_Response_GET_OUTPUT.html",
+      "hash": "FGe14ro0kk+TJ8qUSNov7A=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Associations_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Associations_Response_SET.html",
+      "hash": "jWO3dhKnNaqkZROxNGaaLw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.AuthCodes_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.AuthCodes_Request_SET.html",
+      "hash": "F90oaemWdq81xYM0s6QKyA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.AuthCodes_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.AuthCodes_Response_SET.html",
+      "hash": "JnvM4WXK1RJSrF0xBSiLmw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.BankDetails_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.BankDetails_Request_SET.html",
+      "hash": "NhXLk6Ur2OwN/BumGAYPSA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.BankDetails_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.BankDetails_Response_SET.html",
+      "hash": "hi5zt8bj1tReYEEkVhYQwA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.BillingTasks_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.BillingTasks_Request_SET.html",
+      "hash": "H1Vme/07o5/DJOSQ54iDQQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.BillingTasks_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.BillingTasks_Response_SET.html",
+      "hash": "SOc0vfo83yVa+4exWe86+A=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.CallCredits_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.CallCredits_Request_SET.html",
+      "hash": "MuRqC5fGh1m23hQ56sop0g=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.CallCredits_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.CallCredits_Response_SET.html",
+      "hash": "GC4c9wzWTDhzJo8bEntr2w=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.CallUserGroups_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.CallUserGroups_Request_SET.html",
+      "hash": "jRbt1BPDxAP6fBwr8ByXUg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.CallUserGroups_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.CallUserGroups_Response_SET.html",
+      "hash": "S4ITPXvd1MSwCShuv7YEgA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Contracts_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Contracts_Request_SET.html",
+      "hash": "qlsweLRHJM0VbG0yKvG6Ew=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Contracts_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Contracts_Response_SET.html",
+      "hash": "sPYAA1hqbXPdLkGKJFi8mQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.ConvertService.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.ConvertService.html",
+      "hash": "YucvDZQv4aB79sG6FmA3qA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.CustomerAccounts_Request_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.CustomerAccounts_Request_GET.html",
+      "hash": "Ql18s+tPzftzsRN3X5Vi8w=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.CustomerAccounts_Response_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.CustomerAccounts_Response_GET.html",
+      "hash": "vPXXAH8h6dTX2nX2GsyF1Q=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.CustomerAccounts_Response_GET_OUTPUT.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.CustomerAccounts_Response_GET_OUTPUT.html",
+      "hash": "CJ1odf+B/mtI1Hc2bHSJ9w=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.CustomerExtentions_Request_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.CustomerExtentions_Request_GET.html",
+      "hash": "rCsI7pajv3vk2JleU5JPmg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.CustomerExtentions_Response_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.CustomerExtentions_Response_GET.html",
+      "hash": "voPUZd43KW3x+w+4hOJBsA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.CustomerExtentions_Response_GET_OUTPUT.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.CustomerExtentions_Response_GET_OUTPUT.html",
+      "hash": "xM4XbwFKxqQCmlmTNafuHQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.CustomerPayments_Request_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.CustomerPayments_Request_GET.html",
+      "hash": "pOFCcavSImDqA5uhiObIbw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.CustomerPayments_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.CustomerPayments_Request_SET.html",
+      "hash": "MvoFyNjIuA5CAdczoBjCIg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.CustomerPayments_Response_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.CustomerPayments_Response_GET.html",
+      "hash": "QGfoB6LPfIfqMz77g/I4Ow=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.CustomerPayments_Response_GET_OUTPUT.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.CustomerPayments_Response_GET_OUTPUT.html",
+      "hash": "jUUUSzVZcEq7tWM8Jm1hJg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.CustomerPayments_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.CustomerPayments_Response_SET.html",
+      "hash": "NJuDpqOfmOBfogOJXdiX6Q=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.CustomerTypes_Request_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.CustomerTypes_Request_GET.html",
+      "hash": "Us6f7zAGp+NpwR935P6hww=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.CustomerTypes_Response_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.CustomerTypes_Response_GET.html",
+      "hash": "4U7jAmMMXXDP8u0qvWFvsA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.CustomerTypes_Response_GET_OUTPUT.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.CustomerTypes_Response_GET_OUTPUT.html",
+      "hash": "mD91qUdAJ+MOPElZv3tDXg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Customers_CalcCharges_Request_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Customers_CalcCharges_Request_ACTION.html",
+      "hash": "iOadEruA8yQjSLVCHnuIew=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Customers_CalcCharges_Response_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Customers_CalcCharges_Response_ACTION.html",
+      "hash": "vB+SzA0RgdmbmKPVQlrz1Q=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Customers_ChangeName_Request_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Customers_ChangeName_Request_ACTION.html",
+      "hash": "Dmd4di5zresxSLl0LKJzBg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Customers_ChangeName_Response_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Customers_ChangeName_Response_ACTION.html",
+      "hash": "pRmtX5UMoHjgJTm+AWdnUQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Customers_ChangeParent_Request_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Customers_ChangeParent_Request_ACTION.html",
+      "hash": "QsIfXx5QmZvd5jGWAx8DYg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Customers_ChangeParent_Response_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Customers_ChangeParent_Response_ACTION.html",
+      "hash": "Je5ZnAQcYtoPLzPEWkBV4A=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Customers_ChangeStatus_Request_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Customers_ChangeStatus_Request_ACTION.html",
+      "hash": "NpEQcKKLjE7HZ/Sc7Ff0Ag=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Customers_ChangeStatus_Response_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Customers_ChangeStatus_Response_ACTION.html",
+      "hash": "WQxkc51+MNBgTXjVsUignA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Customers_Request_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Customers_Request_GET.html",
+      "hash": "jwwdIAfpylZIDioc9Bbs5Q=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Customers_Request_GETBYID.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Customers_Request_GETBYID.html",
+      "hash": "9E0uTpIbgyN0QAZT2jZEcw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Customers_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Customers_Request_SET.html",
+      "hash": "noyAXb1M1wpd4qC7vewdjw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Customers_Response_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Customers_Response_GET.html",
+      "hash": "l+nlKhrxAHyIwV47O6BJMA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Customers_Response_GETBYID.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Customers_Response_GETBYID.html",
+      "hash": "SAYwqc6Nkc0+K2jjXwPukQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Customers_Response_GETBYID_OUTPUT.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Customers_Response_GETBYID_OUTPUT.html",
+      "hash": "KXGhc8l0Z4Fw8hMjaITEWw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Customers_Response_GET_OUTPUT.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Customers_Response_GET_OUTPUT.html",
+      "hash": "wAYVWIB1VL+wYUcrif7MGg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Customers_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Customers_Response_SET.html",
+      "hash": "34vSRLDG3Ss3+WMgT6IVQg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Customers_postponeInvoice_Request_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Customers_postponeInvoice_Request_ACTION.html",
+      "hash": "v7Hkqx15JTigW2uJSAyznw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.DB.ProceduresCollection.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.DB.ProceduresCollection.html",
+      "hash": "wcJPumpt4IoUWIJKbPaUvw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.DB.TablesCollection.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.DB.TablesCollection.html",
+      "hash": "eklrLvQHlnjHFU4e7BbwBw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.DB.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.DB.html",
+      "hash": "d8sPJxsZpHCkH8YvIcpX8Q=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Discounts_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Discounts_Request_SET.html",
+      "hash": "O5lZVN0ch2WbOzsLU7/Bug=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Discounts_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Discounts_Response_SET.html",
+      "hash": "TVdrwKKUCQGqPcyYcUI7Mg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.EmptyModel.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.EmptyModel.html",
+      "hash": "Mi3QwgJuQZo+bCsuHi3fBw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Extentions_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Extentions_Request_SET.html",
+      "hash": "GpP+M12DEBPgG6VH1tZgqQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Extentions_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Extentions_Response_SET.html",
+      "hash": "lpgl/YevR4/Vs0Dxn1y9Jg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.FilterDates_Request_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.FilterDates_Request_GET.html",
+      "hash": "m/B9isBle14hsdQFa6nm7g=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.FilterDates_Response_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.FilterDates_Response_GET.html",
+      "hash": "lyXlFHKZwxEOxyitGBz9wg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.FilterDates_Response_GET_OUTPUT.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.FilterDates_Response_GET_OUTPUT.html",
+      "hash": "uosnmIFxksmKm1gLYJBZJg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Gains_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Gains_Request_SET.html",
+      "hash": "t2CHMGAQmxmuIhaSZNYy3g=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Gains_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Gains_Response_SET.html",
+      "hash": "P6CrKhZ/PRF9sWU8I1FAbQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.InvoicePayments_Request_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.InvoicePayments_Request_GET.html",
+      "hash": "OYAeE5yWPrGG+iz5zgP5Iw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.InvoicePayments_Response_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.InvoicePayments_Response_GET.html",
+      "hash": "L+b6McDiMO1Ot6rCNJZzQA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.InvoicePayments_Response_GET_OUTPUT.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.InvoicePayments_Response_GET_OUTPUT.html",
+      "hash": "ErVP9l6U9+WSZF5i4BWL7A=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.ListNumbers_Request_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.ListNumbers_Request_GET.html",
+      "hash": "DUpRvTD/26c5iYH4SysXVg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.ListNumbers_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.ListNumbers_Request_SET.html",
+      "hash": "CeuDoRb0pYfrTmX0BVgvvg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.ListNumbers_Response_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.ListNumbers_Response_GET.html",
+      "hash": "iBr9CQN5wS+tnlGYoNZcKA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.ListNumbers_Response_GET_OUTPUT.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.ListNumbers_Response_GET_OUTPUT.html",
+      "hash": "B9DPvcdl3C+UaJgS5uy8mA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.ListNumbers_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.ListNumbers_Response_SET.html",
+      "hash": "oYvpnBVZJmwZ91FYOb14sg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Memberships_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Memberships_Request_SET.html",
+      "hash": "nlrsi3yg6FnJZNA/7+DcrQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Memberships_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Memberships_Response_SET.html",
+      "hash": "IyEj+nGfJ8XAaVLHzKtP5g=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Networks_ClearLogins_Request_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Networks_ClearLogins_Request_ACTION.html",
+      "hash": "IGYnqmTIVLKTiGG9DEvGQw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Networks_ClearLogins_Response_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Networks_ClearLogins_Response_ACTION.html",
+      "hash": "YIxJSzPeGOzxRD9DnRw4mA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Networks_Request_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Networks_Request_GET.html",
+      "hash": "5ZUXrJIS7uCTlLwz3BO6hw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Networks_Response_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Networks_Response_GET.html",
+      "hash": "mOblE4kAtj/TZ+hnIkn8dg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Networks_Response_GET_OUTPUT.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Networks_Response_GET_OUTPUT.html",
+      "hash": "AKHKEL8/BQRJNy5LaAfWoQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.PaymentDocuments_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.PaymentDocuments_Request_SET.html",
+      "hash": "yFObAERQdVigwXeGEkwTSA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.PaymentDocuments_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.PaymentDocuments_Response_SET.html",
+      "hash": "kGdQqWexlM686vE9iq9bag=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.PhoneNumbers_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.PhoneNumbers_Request_SET.html",
+      "hash": "bDYmQWufqxIoojj6jHshSQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.PhoneNumbers_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.PhoneNumbers_Response_SET.html",
+      "hash": "o5pdS69FBpCmdqX1EDelQw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.PortabilityNumbers_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.PortabilityNumbers_Request_SET.html",
+      "hash": "MMlY2c4qalhuUiDViS2Z4A=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.PortabilityNumbers_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.PortabilityNumbers_Response_SET.html",
+      "hash": "Do2P5TtDvRneaUhxGLG7Ug=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Profiles_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Profiles_Request_SET.html",
+      "hash": "Ht6S8RCowxzyWJqV1rhgXA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Profiles_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Profiles_Response_SET.html",
+      "hash": "Zio10HSQ2eNGMtAX8vhV3Q=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.ProviderBankDetails_Request_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.ProviderBankDetails_Request_GET.html",
+      "hash": "aS2f6UDp90s8oCwlb1Cgpg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.ProviderBankDetails_Response_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.ProviderBankDetails_Response_GET.html",
+      "hash": "3dt8FLzrM78D5fVReQcqkg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.ProviderBankDetails_Response_GET_OUTPUT.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.ProviderBankDetails_Response_GET_OUTPUT.html",
+      "hash": "PMG9VOA362WGyqvSzoEl0g=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.ServiceSubscriptions_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.ServiceSubscriptions_Request_SET.html",
+      "hash": "RQSVlWlvIGksmhe3UBKRHA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.ServiceSubscriptions_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.ServiceSubscriptions_Response_SET.html",
+      "hash": "gpQMAjXOLT+l0x2Jy/r3Lg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_Activate_Request_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_Activate_Request_ACTION.html",
+      "hash": "TGIT3/4Hkm3uQ4McIfZ98A=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_Activate_Response_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_Activate_Response_ACTION.html",
+      "hash": "bIAR8br1rlfbZ0G4Yswg5Q=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_CalcCharges_Request_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_CalcCharges_Request_ACTION.html",
+      "hash": "x5lmg2TKMJSmvwzpHecNVA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_CalcCharges_Response_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_CalcCharges_Response_ACTION.html",
+      "hash": "2U91Ont86xV/1FRamTn0YA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_ChangeAccount_Request_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_ChangeAccount_Request_ACTION.html",
+      "hash": "m7NHnNmXW2D6CZ1+oLYfzQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_ChangeAccount_Response_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_ChangeAccount_Response_ACTION.html",
+      "hash": "KJs9KvDjY/nbgPhNurm8RA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_ChangeName_Request_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_ChangeName_Request_ACTION.html",
+      "hash": "Nu3DCubd5i+Hdh7PnwwdEQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_ChangeName_Response_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_ChangeName_Response_ACTION.html",
+      "hash": "hUE9XJb4fTTz+H+wO3dN7w=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_ChangeStatus_Request_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_ChangeStatus_Request_ACTION.html",
+      "hash": "s6t4NWXtF+yHy8BCSenVqw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_ChangeStatus_Response_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_ChangeStatus_Response_ACTION.html",
+      "hash": "Cm6Slestu/Qpe30dSQ0H6Q=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_Deactivate_Request_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_Deactivate_Request_ACTION.html",
+      "hash": "lAB+f9ED+4YE7MyIosQOGw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_Deactivate_Response_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_Deactivate_Response_ACTION.html",
+      "hash": "eE6rK/m1eCHHcFaE3UWi0A=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_Recharge_Request_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_Recharge_Request_ACTION.html",
+      "hash": "UEc1S+IJJHfaJg2yMlKdnw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_Recharge_Response_ACTION.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_Recharge_Response_ACTION.html",
+      "hash": "FnCPS99LMPpvwGiAaK683A=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_Request_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_Request_GET.html",
+      "hash": "CGsktafUq/cNY7+mF2qC4g=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_Request_GETBYID.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_Request_GETBYID.html",
+      "hash": "QbV/I1TNykWRf4daMFqPKQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_Request_SET.html",
+      "hash": "qOopyHw1KJFnOGl19+nTqQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_Response_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_Response_GET.html",
+      "hash": "MsihHZoBHUxLH6xJ0yOJyQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_Response_GETBYID.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_Response_GETBYID.html",
+      "hash": "t3iB7IQwI6hNl83w5tqAPg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_Response_GETBYID_OUTPUT.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_Response_GETBYID_OUTPUT.html",
+      "hash": "rT8F8QZkn4EHaObc6fTLdQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_Response_GET_OUTPUT.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_Response_GET_OUTPUT.html",
+      "hash": "EfGjOpm33+IJyCA4rTEjnQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Subscribers_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Subscribers_Response_SET.html",
+      "hash": "EHqHdUXyjszh1MKd5iQgNQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.TaskDataCommonCallModel.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.TaskDataCommonCallModel.html",
+      "hash": "rtJAI9vK2TeGvKzMnqkfaA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Tasks_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Tasks_Request_SET.html",
+      "hash": "KxyBAuhxo/BARY1M4xVYUA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.Tasks_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.Tasks_Response_SET.html",
+      "hash": "7L7z7YFTvWUw0N39JjKoxw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.TemplateSubscriptions_Request_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.TemplateSubscriptions_Request_GET.html",
+      "hash": "y8iWCXzk86Od+d7qDzwyxQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.TemplateSubscriptions_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.TemplateSubscriptions_Request_SET.html",
+      "hash": "ClbxsGeslulhHQ6zsyGwwQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.TemplateSubscriptions_Response_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.TemplateSubscriptions_Response_GET.html",
+      "hash": "sKgnO0h71r5owDy3yHBC0A=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.TemplateSubscriptions_Response_GET_OUTPUT.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.TemplateSubscriptions_Response_GET_OUTPUT.html",
+      "hash": "MW9xQMXBs675isT1mjd44w=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.TemplateSubscriptions_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.TemplateSubscriptions_Response_SET.html",
+      "hash": "xnvDaZSiXN07DfaW76KmNQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.TreeNodeHistory_Request_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.TreeNodeHistory_Request_GET.html",
+      "hash": "9L0/b3hnLFxAlHbol7IQBw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.TreeNodeHistory_Response_GET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.TreeNodeHistory_Response_GET.html",
+      "hash": "HPqNXW+g/Qa3g5JSP7/LLA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.TreeNodeHistory_Response_GET_OUTPUT.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.TreeNodeHistory_Response_GET_OUTPUT.html",
+      "hash": "Pi2o1D9UN+VuPp6hDZVOWg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.TreeNodeProperties_Request_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.TreeNodeProperties_Request_SET.html",
+      "hash": "bOCxZDPc3Tym9AsprduCnw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.TreeNodeProperties_Response_SET.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.TreeNodeProperties_Response_SET.html",
+      "hash": "ekiGc+LXque3FhBhq9w4mQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.p_get_ListID_CallModel.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.p_get_ListID_CallModel.html",
+      "hash": "h/C58cZLGC7tCk7dh3TgcQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.p_get_ServiceTaskData_CallModel.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.p_get_ServiceTaskData_CallModel.html",
+      "hash": "WPOQoKSXA96DbAZRHjhYvA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.p_get_ServiceTaskData_ResultModel.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.p_get_ServiceTaskData_ResultModel.html",
+      "hash": "JAxZ5Hb2vhMUXtuOI/OsHg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.p_get_ServiceTaskData_ResultModel_Back.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.p_get_ServiceTaskData_ResultModel_Back.html",
+      "hash": "zTqRTCjSh3IcC6BL7ZXAYw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.p_get_Tasks_CallModel.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.p_get_Tasks_CallModel.html",
+      "hash": "U0qvZPKqe9SIqN5gXDPrrA=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.p_get_Tasks_ResultModel.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.p_get_Tasks_ResultModel.html",
+      "hash": "n+GVpqzNrbwB9KSZtkw3Sg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.p_set_Task_CallModel.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.p_set_Task_CallModel.html",
+      "hash": "nKcOIYe2JEDyQJp1kQH9og=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.p_srh_get_ListID_CallModel.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.p_srh_get_ListID_CallModel.html",
+      "hash": "766Vv2LSFIZLzUFprwcFFQ=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.p_ucp_get_TaskProcessList_ResultModel.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.p_ucp_get_TaskProcessList_ResultModel.html",
+      "hash": "22SSgaQJL7z8vWIcGfpVGw=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+}{
+  "type": "ManagedReference",
+  "source_relative_path": "api/Natec.Widecoup.yml",
+  "output": {
+    ".html": {
+      "relative_path": "api/Natec.Widecoup.html",
+      "hash": "d4+VBOwBotnDY15TiAGTpg=="
+    }
+  },
+  "is_incremental": false,
+  "version": ""
+} 
+
+  
+
+  
+
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "s8M7IvDqkU6rHdlkJEALjA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "H5frWk4fYGIWHpFNp3BdfA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "aEp8DE/GWF87r0smHEn5LQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "gB8AESyvNru97tzIZofEEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "c3EH4CpH14RJFxGQRlqxTg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "DuplicateUids"
+      ],
+      "type": "RestApi",
+      "source_relative_path": "restapi/Bss.json",
+      "output": {
+        ".html": {
+          "relative_path": "restapi/Bss.html",
+          "hash": "9Jv8A3FNqGvqZaB645o6NA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "RestApi",
+      "source_relative_path": "restapi/Entity.json",
+      "output": {
+        ".html": {
+          "relative_path": "restapi/Entity.html",
+          "hash": "n9PGEcwatE4VLcpEZOrN9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "restapi/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "restapi/toc.html",
+          "hash": "apaannMCkogHJvZK2ymgpQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "qECXGgzyk083Ki35834Byw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 3
+        },
+        "RestApiDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor RestApiDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^index\.php$ / [R=301,L]
+
+AddHandler application/x-httpd-php54 .html .htm

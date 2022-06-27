@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Telecom BSS models</title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="PLACEHOLDER ">
+    <meta name="generator" content="docfx 2.56.4.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <link href="//cdn.rawgit.com/noelboss/featherlight/1.7.6/release/featherlight.min.css" type="text/css" rel="stylesheet">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+  </head>  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="">
+            <h1 id="BSS">BSS domain models</h1>
+            
+			
+			<p>The <b>unified information model SID</b> (Shared Information and Data Model) of the Telecom BSS domain, as part of the NGOSS concept, was developed on the basis of ITUT (M.3050) of the TM Forum organization and is the basis for the integration of OSS/BSS (Operation Support System/Business Support System) through their use of a unified information model to provide data.</p>
+			<p>This model is implemented as a Natec.Entities plug-in and is focused on the business processes of service operators, namely, on organizing the sharing of information about service consumers, services provided, available resources, suppliers / partners and other information in the framework of numerous operations. The unified information model SID is part of the MEF.DEV Reference Architecture (reference - optimized scheme of actions applicable in different situations - replicated) for the classification and description of all business processes of the service operator with different levels of detail. In telecommunications carriers, the Reference Architecture is used as a template for organizing product development process management and provides a starting point for reorganizing internal processes, as well as for organizing interaction with partners and entering into common working agreements with other development teams of joint products (bundles).
+			</p>
+			<p>The peculiarity of the Natec.Entities SID-model as a basis for the development of the company's business products is that it implements the approaches of the NGOSS (New Generation Operations Systems and Software) program of the TM Forum organization and gives developers open access to the main operational processes of consumer support (FAB) such as Fulfilment, Assurance and Billing.</p>
+			<img src="Unibill.Entities.svg">
+			<p>An important element of the SID-model of Natec.Entities is the sets of Actions (atomic part of the process flow), allocated on the basis of the experience of real projects in the Telecom BSS domain. Each individual telecom operator, based on an understanding of how specific flows of processes in his enterprise can build their individual flows based on the existing sets of Actions, which will allow, due to their combination and unification, to implement their specific “end-to-end” scenario with the help of which these processes ensure the implementation of the purpose of the company's business activities.</p>
+			
+			<p><b>Why is the Telecom BSS Domain Natec.Entities SID Model Needed?</b>
+<li>The Natec.Entities model provides a standard structure, terminology and classification scheme for describing business processes and their building blocks</li>
+<li>The Natec.Entities model provides a framework for applying common business process design principles across the enterprise.</li>
+<li>The Natec.Entities model provides a framework for understanding and managing an application portfolio in terms of business process requirements.</li>
+<li>The Natec.Entities model enables the creation of holistic, high-quality workflows of end-to-end processes with the ability to reuse existing processes and systems, including reducing costs and increasing efficiency.</li>
+</p>			
+			<p><b>When will Telecom BSS Domain Natec.Entities SID Model Help?</b>
+The Natec.Entities SID model can be used as a visual tool for business analysis of existing product management processes in an organization and for developing new processes or products. It can help you identify processes that provide the same business function, eliminate possible duplication, detect gaps, accelerate new product development, and reduce inconsistencies. The Natec.Entities SID model allows you to assess the significance of individual processes used in an organization in order to assess the impact when a new process or product is launched.
+The SID model of Natec.Entities, as part of the MEF.DEV Reference Architecture, simplifies relationships with partners in product development, as it allows you to identify and standardize the processes used when interacting with them. Likewise, you can identify the critical processes used in customer interactions and assess whether these processes are performing as expected by the end customers.</p>	
+<p>
+  For now, there is available only one Telecom BSS domain SID-model on MEF.DEV platform provided by its authors for study - you can download by link <a href="https://nuget.mef.dev/packages/Natec.Entities">package Natec.Entities</a></a>
+  <p>XML Schema of SID-model:<p>
+<div style="position: relative;display: inline-block;">
+      <img src="/images/xsd.png" alt="XML Schema" width="30" height="30">
+      <a href="/images/sid.xsd" download style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;"></a>
+</div>
+
+</p>
+
+            </article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+    <script src="//cdn.rawgit.com/noelboss/featherlight/1.7.6/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript" src="../styles/plugin-featherlight.js"></script>
+
+  </body>
+</html>

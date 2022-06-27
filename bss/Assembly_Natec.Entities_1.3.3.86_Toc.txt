@@ -1,0 +1,646 @@
+<ul class="nav level1">
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="#" name="" title="Natec.Entities.dll" id="top_lvl_href">Natec.Entities.dll</a>
+                    
+                <ul class="nav level2">
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="Natec.Entities.html" name="" title="Natec.Entities">Natec.Entities</a>
+                    
+                    <ul class="nav level3">
+                          <li>
+                              <a href="Natec.Entities.AccountsRequest.html" name="" title="AccountsRequest">AccountsRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.AccountTaxesRequest.html" name="" title="AccountTaxesRequest">AccountTaxesRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.AddressesRequest.html" name="" title="AddressesRequest">AddressesRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.AddressesSyncRequest.html" name="" title="AddressesSyncRequest">AddressesSyncRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.AdjustmentsRequest.html" name="" title="AdjustmentsRequest">AdjustmentsRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.AgreementsChangeTariffs.html" name="" title="AgreementsChangeTariffs">AgreementsChangeTariffs</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.AgreementsRequest.html" name="" title="AgreementsRequest">AgreementsRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.AssociationsChangeName.html" name="" title="AssociationsChangeName">AssociationsChangeName</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.AssociationsChangeParent.html" name="" title="AssociationsChangeParent">AssociationsChangeParent</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.AssociationsChangeStatus.html" name="" title="AssociationsChangeStatus">AssociationsChangeStatus</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.AssociationsRequest.html" name="" title="AssociationsRequest">AssociationsRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.AuthCodesRequest.html" name="" title="AuthCodesRequest">AuthCodesRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.BankDetailsRequest.html" name="" title="BankDetailsRequest">BankDetailsRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.BillingTasksRequest.html" name="" title="BillingTasksRequest">BillingTasksRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.CallCreditsRequest.html" name="" title="CallCreditsRequest">CallCreditsRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.CallUserGroupsRequest.html" name="" title="CallUserGroupsRequest">CallUserGroupsRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.ChangeaccountRequest.html" name="" title="ChangeaccountRequest">ChangeaccountRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.ContractsRequest.html" name="" title="ContractsRequest">ContractsRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.CreateTaskRequest.html" name="" title="CreateTaskRequest">CreateTaskRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.CustomerPaymentsRequest.html" name="" title="CustomerPaymentsRequest">CustomerPaymentsRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.CustomersCalcCharges.html" name="" title="CustomersCalcCharges">CustomersCalcCharges</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.CustomersChangeName.html" name="" title="CustomersChangeName">CustomersChangeName</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.CustomersChangeParent.html" name="" title="CustomersChangeParent">CustomersChangeParent</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.CustomersPostponeinvoice.html" name="" title="CustomersPostponeinvoice">CustomersPostponeinvoice</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.CustomersRequest.html" name="" title="CustomersRequest">CustomersRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.DiscountsRequest.html" name="" title="DiscountsRequest">DiscountsRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.ExtentionsRequest.html" name="" title="ExtentionsRequest">ExtentionsRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.GainsRequest.html" name="" title="GainsRequest">GainsRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.MembershipsRequest.html" name="" title="MembershipsRequest">MembershipsRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.NetworkRequestClearLoginAction.html" name="" title="NetworkRequestClearLoginAction">NetworkRequestClearLoginAction</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.NetworksRequest.html" name="" title="NetworksRequest">NetworksRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.PaymentDocumentsRequest.html" name="" title="PaymentDocumentsRequest">PaymentDocumentsRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.PhoneNumbersRequest.html" name="" title="PhoneNumbersRequest">PhoneNumbersRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.PortabilityNumbersRequest.html" name="" title="PortabilityNumbersRequest">PortabilityNumbersRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.ProfilesRequest.html" name="" title="ProfilesRequest">ProfilesRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.ServiceSubscriptionsRequest.html" name="" title="ServiceSubscriptionsRequest">ServiceSubscriptionsRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.SubscribersActivateRequest.html" name="" title="SubscribersActivateRequest">SubscribersActivateRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.SubscribersCalcCharges.html" name="" title="SubscribersCalcCharges">SubscribersCalcCharges</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.SubscribersChangeName.html" name="" title="SubscribersChangeName">SubscribersChangeName</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.SubscribersDeactivateRequest.html" name="" title="SubscribersDeactivateRequest">SubscribersDeactivateRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.SubscribersRechargeRequest.html" name="" title="SubscribersRechargeRequest">SubscribersRechargeRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.SubscribersRequest.html" name="" title="SubscribersRequest">SubscribersRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.TasksRequest.html" name="" title="TasksRequest">TasksRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.TemplateSubscriptionsRequest.html" name="" title="TemplateSubscriptionsRequest">TemplateSubscriptionsRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.TestsResult.html" name="" title="TestsResult">TestsResult</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.TreeNodePropertiesRequest.html" name="" title="TreeNodePropertiesRequest">TreeNodePropertiesRequest</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.TreeNodesChangeParent.html" name="" title="TreeNodesChangeParent">TreeNodesChangeParent</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Entities.TreeNodesRequest.html" name="" title="TreeNodesRequest">TreeNodesRequest</a>
+                          </li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="expand-stub"></span>
+                    <a href="Natec.Widecoup.html" name="" title="Natec.Widecoup">Natec.Widecoup</a>
+                    
+                    <ul class="nav level3">
+                          <li>
+                              <a href="Natec.Widecoup.Accounts_Request_GET.html" name="" title="Accounts_Request_GET">Accounts_Request_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Accounts_Request_SET.html" name="" title="Accounts_Request_SET">Accounts_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Accounts_Response_GET.html" name="" title="Accounts_Response_GET">Accounts_Response_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Accounts_Response_GET_OUTPUT.html" name="" title="Accounts_Response_GET_OUTPUT">Accounts_Response_GET_OUTPUT</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Accounts_Response_SET.html" name="" title="Accounts_Response_SET">Accounts_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.AccountTaxes_Request_SET.html" name="" title="AccountTaxes_Request_SET">AccountTaxes_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.AccountTaxes_Response_SET.html" name="" title="AccountTaxes_Response_SET">AccountTaxes_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Addresses_Request_SET.html" name="" title="Addresses_Request_SET">Addresses_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Addresses_Response_SET.html" name="" title="Addresses_Response_SET">Addresses_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Addresses_Sync_Request_ACTION.html" name="" title="Addresses_Sync_Request_ACTION">Addresses_Sync_Request_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Addresses_Sync_Response_ACTION.html" name="" title="Addresses_Sync_Response_ACTION">Addresses_Sync_Response_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Adjustments_Request_SET.html" name="" title="Adjustments_Request_SET">Adjustments_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Adjustments_Response_SET.html" name="" title="Adjustments_Response_SET">Adjustments_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Agreements_ChangeTariffs_Request_ACTION.html" name="" title="Agreements_ChangeTariffs_Request_ACTION">Agreements_ChangeTariffs_Request_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Agreements_ChangeTariffs_Response_ACTION.html" name="" title="Agreements_ChangeTariffs_Response_ACTION">Agreements_ChangeTariffs_Response_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Agreements_Request_SET.html" name="" title="Agreements_Request_SET">Agreements_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Agreements_Response_SET.html" name="" title="Agreements_Response_SET">Agreements_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Associations_ChangeName_Request_ACTION.html" name="" title="Associations_ChangeName_Request_ACTION">Associations_ChangeName_Request_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Associations_ChangeName_Response_ACTION.html" name="" title="Associations_ChangeName_Response_ACTION">Associations_ChangeName_Response_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Associations_ChangeParent_Request_ACTION.html" name="" title="Associations_ChangeParent_Request_ACTION">Associations_ChangeParent_Request_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Associations_ChangeParent_Response_ACTION.html" name="" title="Associations_ChangeParent_Response_ACTION">Associations_ChangeParent_Response_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Associations_ChangeStatus_Request_ACTION.html" name="" title="Associations_ChangeStatus_Request_ACTION">Associations_ChangeStatus_Request_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Associations_ChangeStatus_Response_ACTION.html" name="" title="Associations_ChangeStatus_Response_ACTION">Associations_ChangeStatus_Response_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Associations_Request_GET.html" name="" title="Associations_Request_GET">Associations_Request_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Associations_Request_GETBYID.html" name="" title="Associations_Request_GETBYID">Associations_Request_GETBYID</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Associations_Request_SET.html" name="" title="Associations_Request_SET">Associations_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Associations_Response_GET.html" name="" title="Associations_Response_GET">Associations_Response_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Associations_Response_GET_OUTPUT.html" name="" title="Associations_Response_GET_OUTPUT">Associations_Response_GET_OUTPUT</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Associations_Response_GETBYID.html" name="" title="Associations_Response_GETBYID">Associations_Response_GETBYID</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Associations_Response_GETBYID_OUTPUT.html" name="" title="Associations_Response_GETBYID_OUTPUT">Associations_Response_GETBYID_OUTPUT</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Associations_Response_SET.html" name="" title="Associations_Response_SET">Associations_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.AuthCodes_Request_SET.html" name="" title="AuthCodes_Request_SET">AuthCodes_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.AuthCodes_Response_SET.html" name="" title="AuthCodes_Response_SET">AuthCodes_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.BankDetails_Request_SET.html" name="" title="BankDetails_Request_SET">BankDetails_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.BankDetails_Response_SET.html" name="" title="BankDetails_Response_SET">BankDetails_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.BillingTasks_Request_SET.html" name="" title="BillingTasks_Request_SET">BillingTasks_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.BillingTasks_Response_SET.html" name="" title="BillingTasks_Response_SET">BillingTasks_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.CallCredits_Request_SET.html" name="" title="CallCredits_Request_SET">CallCredits_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.CallCredits_Response_SET.html" name="" title="CallCredits_Response_SET">CallCredits_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.CallUserGroups_Request_SET.html" name="" title="CallUserGroups_Request_SET">CallUserGroups_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.CallUserGroups_Response_SET.html" name="" title="CallUserGroups_Response_SET">CallUserGroups_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Contracts_Request_SET.html" name="" title="Contracts_Request_SET">Contracts_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Contracts_Response_SET.html" name="" title="Contracts_Response_SET">Contracts_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.ConvertService.html" name="" title="ConvertService">ConvertService</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.CustomerAccounts_Request_GET.html" name="" title="CustomerAccounts_Request_GET">CustomerAccounts_Request_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.CustomerAccounts_Response_GET.html" name="" title="CustomerAccounts_Response_GET">CustomerAccounts_Response_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.CustomerAccounts_Response_GET_OUTPUT.html" name="" title="CustomerAccounts_Response_GET_OUTPUT">CustomerAccounts_Response_GET_OUTPUT</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.CustomerExtentions_Request_GET.html" name="" title="CustomerExtentions_Request_GET">CustomerExtentions_Request_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.CustomerExtentions_Response_GET.html" name="" title="CustomerExtentions_Response_GET">CustomerExtentions_Response_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.CustomerExtentions_Response_GET_OUTPUT.html" name="" title="CustomerExtentions_Response_GET_OUTPUT">CustomerExtentions_Response_GET_OUTPUT</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.CustomerPayments_Request_GET.html" name="" title="CustomerPayments_Request_GET">CustomerPayments_Request_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.CustomerPayments_Request_SET.html" name="" title="CustomerPayments_Request_SET">CustomerPayments_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.CustomerPayments_Response_GET.html" name="" title="CustomerPayments_Response_GET">CustomerPayments_Response_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.CustomerPayments_Response_GET_OUTPUT.html" name="" title="CustomerPayments_Response_GET_OUTPUT">CustomerPayments_Response_GET_OUTPUT</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.CustomerPayments_Response_SET.html" name="" title="CustomerPayments_Response_SET">CustomerPayments_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Customers_CalcCharges_Request_ACTION.html" name="" title="Customers_CalcCharges_Request_ACTION">Customers_CalcCharges_Request_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Customers_CalcCharges_Response_ACTION.html" name="" title="Customers_CalcCharges_Response_ACTION">Customers_CalcCharges_Response_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Customers_ChangeName_Request_ACTION.html" name="" title="Customers_ChangeName_Request_ACTION">Customers_ChangeName_Request_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Customers_ChangeName_Response_ACTION.html" name="" title="Customers_ChangeName_Response_ACTION">Customers_ChangeName_Response_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Customers_ChangeParent_Request_ACTION.html" name="" title="Customers_ChangeParent_Request_ACTION">Customers_ChangeParent_Request_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Customers_ChangeParent_Response_ACTION.html" name="" title="Customers_ChangeParent_Response_ACTION">Customers_ChangeParent_Response_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Customers_ChangeStatus_Request_ACTION.html" name="" title="Customers_ChangeStatus_Request_ACTION">Customers_ChangeStatus_Request_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Customers_ChangeStatus_Response_ACTION.html" name="" title="Customers_ChangeStatus_Response_ACTION">Customers_ChangeStatus_Response_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Customers_postponeInvoice_Request_ACTION.html" name="" title="Customers_postponeInvoice_Request_ACTION">Customers_postponeInvoice_Request_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Customers_Request_GET.html" name="" title="Customers_Request_GET">Customers_Request_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Customers_Request_GETBYID.html" name="" title="Customers_Request_GETBYID">Customers_Request_GETBYID</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Customers_Request_SET.html" name="" title="Customers_Request_SET">Customers_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Customers_Response_GET.html" name="" title="Customers_Response_GET">Customers_Response_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Customers_Response_GET_OUTPUT.html" name="" title="Customers_Response_GET_OUTPUT">Customers_Response_GET_OUTPUT</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Customers_Response_GETBYID.html" name="" title="Customers_Response_GETBYID">Customers_Response_GETBYID</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Customers_Response_GETBYID_OUTPUT.html" name="" title="Customers_Response_GETBYID_OUTPUT">Customers_Response_GETBYID_OUTPUT</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Customers_Response_SET.html" name="" title="Customers_Response_SET">Customers_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.CustomerTypes_Request_GET.html" name="" title="CustomerTypes_Request_GET">CustomerTypes_Request_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.CustomerTypes_Response_GET.html" name="" title="CustomerTypes_Response_GET">CustomerTypes_Response_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.CustomerTypes_Response_GET_OUTPUT.html" name="" title="CustomerTypes_Response_GET_OUTPUT">CustomerTypes_Response_GET_OUTPUT</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.DB.html" name="" title="DB">DB</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.DB.ProceduresCollection.html" name="" title="DB.ProceduresCollection">DB.ProceduresCollection</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.DB.TablesCollection.html" name="" title="DB.TablesCollection">DB.TablesCollection</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Discounts_Request_SET.html" name="" title="Discounts_Request_SET">Discounts_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Discounts_Response_SET.html" name="" title="Discounts_Response_SET">Discounts_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.EmptyModel.html" name="" title="EmptyModel">EmptyModel</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Extentions_Request_SET.html" name="" title="Extentions_Request_SET">Extentions_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Extentions_Response_SET.html" name="" title="Extentions_Response_SET">Extentions_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.FilterDates_Request_GET.html" name="" title="FilterDates_Request_GET">FilterDates_Request_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.FilterDates_Response_GET.html" name="" title="FilterDates_Response_GET">FilterDates_Response_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.FilterDates_Response_GET_OUTPUT.html" name="" title="FilterDates_Response_GET_OUTPUT">FilterDates_Response_GET_OUTPUT</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Gains_Request_SET.html" name="" title="Gains_Request_SET">Gains_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Gains_Response_SET.html" name="" title="Gains_Response_SET">Gains_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.InvoicePayments_Request_GET.html" name="" title="InvoicePayments_Request_GET">InvoicePayments_Request_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.InvoicePayments_Response_GET.html" name="" title="InvoicePayments_Response_GET">InvoicePayments_Response_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.InvoicePayments_Response_GET_OUTPUT.html" name="" title="InvoicePayments_Response_GET_OUTPUT">InvoicePayments_Response_GET_OUTPUT</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.ListNumbers_Request_GET.html" name="" title="ListNumbers_Request_GET">ListNumbers_Request_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.ListNumbers_Request_SET.html" name="" title="ListNumbers_Request_SET">ListNumbers_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.ListNumbers_Response_GET.html" name="" title="ListNumbers_Response_GET">ListNumbers_Response_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.ListNumbers_Response_GET_OUTPUT.html" name="" title="ListNumbers_Response_GET_OUTPUT">ListNumbers_Response_GET_OUTPUT</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.ListNumbers_Response_SET.html" name="" title="ListNumbers_Response_SET">ListNumbers_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Memberships_Request_SET.html" name="" title="Memberships_Request_SET">Memberships_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Memberships_Response_SET.html" name="" title="Memberships_Response_SET">Memberships_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Networks_ClearLogins_Request_ACTION.html" name="" title="Networks_ClearLogins_Request_ACTION">Networks_ClearLogins_Request_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Networks_ClearLogins_Response_ACTION.html" name="" title="Networks_ClearLogins_Response_ACTION">Networks_ClearLogins_Response_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Networks_Request_GET.html" name="" title="Networks_Request_GET">Networks_Request_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Networks_Response_GET.html" name="" title="Networks_Response_GET">Networks_Response_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Networks_Response_GET_OUTPUT.html" name="" title="Networks_Response_GET_OUTPUT">Networks_Response_GET_OUTPUT</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.p_get_ListID_CallModel.html" name="" title="p_get_ListID_CallModel">p_get_ListID_CallModel</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.p_get_ServiceTaskData_CallModel.html" name="" title="p_get_ServiceTaskData_CallModel">p_get_ServiceTaskData_CallModel</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.p_get_ServiceTaskData_ResultModel.html" name="" title="p_get_ServiceTaskData_ResultModel">p_get_ServiceTaskData_ResultModel</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.p_get_ServiceTaskData_ResultModel_Back.html" name="" title="p_get_ServiceTaskData_ResultModel_Back">p_get_ServiceTaskData_ResultModel_Back</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.p_get_Tasks_CallModel.html" name="" title="p_get_Tasks_CallModel">p_get_Tasks_CallModel</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.p_get_Tasks_ResultModel.html" name="" title="p_get_Tasks_ResultModel">p_get_Tasks_ResultModel</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.p_set_Task_CallModel.html" name="" title="p_set_Task_CallModel">p_set_Task_CallModel</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.p_srh_get_ListID_CallModel.html" name="" title="p_srh_get_ListID_CallModel">p_srh_get_ListID_CallModel</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.p_ucp_get_TaskProcessList_ResultModel.html" name="" title="p_ucp_get_TaskProcessList_ResultModel">p_ucp_get_TaskProcessList_ResultModel</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.PaymentDocuments_Request_SET.html" name="" title="PaymentDocuments_Request_SET">PaymentDocuments_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.PaymentDocuments_Response_SET.html" name="" title="PaymentDocuments_Response_SET">PaymentDocuments_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.PhoneNumbers_Request_SET.html" name="" title="PhoneNumbers_Request_SET">PhoneNumbers_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.PhoneNumbers_Response_SET.html" name="" title="PhoneNumbers_Response_SET">PhoneNumbers_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.PortabilityNumbers_Request_SET.html" name="" title="PortabilityNumbers_Request_SET">PortabilityNumbers_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.PortabilityNumbers_Response_SET.html" name="" title="PortabilityNumbers_Response_SET">PortabilityNumbers_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Profiles_Request_SET.html" name="" title="Profiles_Request_SET">Profiles_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Profiles_Response_SET.html" name="" title="Profiles_Response_SET">Profiles_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.ProviderBankDetails_Request_GET.html" name="" title="ProviderBankDetails_Request_GET">ProviderBankDetails_Request_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.ProviderBankDetails_Response_GET.html" name="" title="ProviderBankDetails_Response_GET">ProviderBankDetails_Response_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.ProviderBankDetails_Response_GET_OUTPUT.html" name="" title="ProviderBankDetails_Response_GET_OUTPUT">ProviderBankDetails_Response_GET_OUTPUT</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.ServiceSubscriptions_Request_SET.html" name="" title="ServiceSubscriptions_Request_SET">ServiceSubscriptions_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.ServiceSubscriptions_Response_SET.html" name="" title="ServiceSubscriptions_Response_SET">ServiceSubscriptions_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_Activate_Request_ACTION.html" name="" title="Subscribers_Activate_Request_ACTION">Subscribers_Activate_Request_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_Activate_Response_ACTION.html" name="" title="Subscribers_Activate_Response_ACTION">Subscribers_Activate_Response_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_CalcCharges_Request_ACTION.html" name="" title="Subscribers_CalcCharges_Request_ACTION">Subscribers_CalcCharges_Request_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_CalcCharges_Response_ACTION.html" name="" title="Subscribers_CalcCharges_Response_ACTION">Subscribers_CalcCharges_Response_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_ChangeAccount_Request_ACTION.html" name="" title="Subscribers_ChangeAccount_Request_ACTION">Subscribers_ChangeAccount_Request_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_ChangeAccount_Response_ACTION.html" name="" title="Subscribers_ChangeAccount_Response_ACTION">Subscribers_ChangeAccount_Response_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_ChangeName_Request_ACTION.html" name="" title="Subscribers_ChangeName_Request_ACTION">Subscribers_ChangeName_Request_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_ChangeName_Response_ACTION.html" name="" title="Subscribers_ChangeName_Response_ACTION">Subscribers_ChangeName_Response_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_ChangeStatus_Request_ACTION.html" name="" title="Subscribers_ChangeStatus_Request_ACTION">Subscribers_ChangeStatus_Request_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_ChangeStatus_Response_ACTION.html" name="" title="Subscribers_ChangeStatus_Response_ACTION">Subscribers_ChangeStatus_Response_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_Deactivate_Request_ACTION.html" name="" title="Subscribers_Deactivate_Request_ACTION">Subscribers_Deactivate_Request_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_Deactivate_Response_ACTION.html" name="" title="Subscribers_Deactivate_Response_ACTION">Subscribers_Deactivate_Response_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_Recharge_Request_ACTION.html" name="" title="Subscribers_Recharge_Request_ACTION">Subscribers_Recharge_Request_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_Recharge_Response_ACTION.html" name="" title="Subscribers_Recharge_Response_ACTION">Subscribers_Recharge_Response_ACTION</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_Request_GET.html" name="" title="Subscribers_Request_GET">Subscribers_Request_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_Request_GETBYID.html" name="" title="Subscribers_Request_GETBYID">Subscribers_Request_GETBYID</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_Request_SET.html" name="" title="Subscribers_Request_SET">Subscribers_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_Response_GET.html" name="" title="Subscribers_Response_GET">Subscribers_Response_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_Response_GET_OUTPUT.html" name="" title="Subscribers_Response_GET_OUTPUT">Subscribers_Response_GET_OUTPUT</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_Response_GETBYID.html" name="" title="Subscribers_Response_GETBYID">Subscribers_Response_GETBYID</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_Response_GETBYID_OUTPUT.html" name="" title="Subscribers_Response_GETBYID_OUTPUT">Subscribers_Response_GETBYID_OUTPUT</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Subscribers_Response_SET.html" name="" title="Subscribers_Response_SET">Subscribers_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.TaskDataCommonCallModel.html" name="" title="TaskDataCommonCallModel">TaskDataCommonCallModel</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Tasks_Request_SET.html" name="" title="Tasks_Request_SET">Tasks_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.Tasks_Response_SET.html" name="" title="Tasks_Response_SET">Tasks_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.TemplateSubscriptions_Request_GET.html" name="" title="TemplateSubscriptions_Request_GET">TemplateSubscriptions_Request_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.TemplateSubscriptions_Request_SET.html" name="" title="TemplateSubscriptions_Request_SET">TemplateSubscriptions_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.TemplateSubscriptions_Response_GET.html" name="" title="TemplateSubscriptions_Response_GET">TemplateSubscriptions_Response_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.TemplateSubscriptions_Response_GET_OUTPUT.html" name="" title="TemplateSubscriptions_Response_GET_OUTPUT">TemplateSubscriptions_Response_GET_OUTPUT</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.TemplateSubscriptions_Response_SET.html" name="" title="TemplateSubscriptions_Response_SET">TemplateSubscriptions_Response_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.TreeNodeHistory_Request_GET.html" name="" title="TreeNodeHistory_Request_GET">TreeNodeHistory_Request_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.TreeNodeHistory_Response_GET.html" name="" title="TreeNodeHistory_Response_GET">TreeNodeHistory_Response_GET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.TreeNodeHistory_Response_GET_OUTPUT.html" name="" title="TreeNodeHistory_Response_GET_OUTPUT">TreeNodeHistory_Response_GET_OUTPUT</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.TreeNodeProperties_Request_SET.html" name="" title="TreeNodeProperties_Request_SET">TreeNodeProperties_Request_SET</a>
+                          </li>
+                          <li>
+                              <a href="Natec.Widecoup.TreeNodeProperties_Response_SET.html" name="" title="TreeNodeProperties_Response_SET">TreeNodeProperties_Response_SET</a>
+                          </li>
+                    </ul>
+                </li>
+          </ul></li>
+            </ul>

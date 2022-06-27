@@ -1,0 +1,83 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Catalog" type="CatalogType"/>
+  <xs:annotation>
+  <xs:appinfo source="https://mef.dev/en">Overview</xs:appinfo>
+  <xs:documentation  xml:lang="en">The SID (Shared Information and Data Model) model can be used as a visual tool for business analysis of existing product management processes in an organization and for developing new processes or products. It can help you identify processes that provide the same business function, eliminate possible duplication, detect gaps, accelerate new product development, and reduce inconsistencies. The SID model allows you to assess the significance of individual processes used in an organization in order to assess the impact when a new process or product is launched. The SID model, as part of the MEF.DEV Reference Architecture, simplifies relationships with partners in product development, as it allows you to identify and standardize the processes used when interacting with them. Likewise, you can identify the critical processes used in customer interactions and assess whether these processes are performing as expected by the end customers. </xs:documentation>
+  <xs:documentation  xml:lang="ru">Модель SID (Shared Information and Data Model) может использоваться в качестве визуального инструмента для бизнес-анализа существующих процессов управления продуктами в организации и для разработки новых процессов или продуктов. Это может помочь Вам определить процессы, которые обеспечивают одну и ту же бизнес-функцию, устранить возможное дублирование, выявить пробелы, ускорить разработку новых продуктов и уменьшить несоответствия. Модель SID позволяет оценить значимость отдельных процессов, используемых в организации, чтобы оценить влияние при запуске нового процесса или продукта. Модель SID, как часть референсной архитектуры MEF.DEV, упрощает отношения с партнерами по разработке продукта, поскольку позволяет идентифицировать и стандартизировать процессы, используемые при взаимодействии с ними. Точно так же вы можете определить критические процессы, используемые при взаимодействии с клиентами, и оценить, работают ли эти процессы так, как ожидают конечные клиенты.</xs:documentation>
+</xs:annotation>
+  <xs:complexType name="ArgumentType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="AttributeName"/>
+      <xs:element type="xs:string" name="ParameterName"/>
+      <xs:element type="xs:string" name="DataType"/>
+      <xs:element type="xs:string" name="TranslatedDataType"/>
+      <xs:element type="xs:string" name="DBDataType"/>
+      <xs:element type="xs:string" name="Direction"/>
+      <xs:element type="xs:string" name="Description"/>
+      <xs:element type="xs:string" name="Mandatory"/>
+      <xs:element type="xs:string" name="Default" minOccurs="0"/>
+      <xs:element type="xs:string" name="LinkEntity" minOccurs="0"/>
+      <xs:element type="xs:string" name="IsPrimaryKey"/>
+      <xs:element type="xs:string" name="LOV"/>
+      <xs:element type="xs:string" name="MaximumLength" nillable="true"/>
+      <xs:element type="xs:string" name="Place"/>
+      <xs:element type="xs:string" name="IsNullable"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ArgumentsType">
+    <xs:sequence>
+      <xs:element type="ArgumentType" name="Argument" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ProcedureCallType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="ProcedureName"/>
+      <xs:element type="xs:string" name="Part"/>
+      <xs:element type="xs:string" name="Method"/>
+      <xs:element type="ArgumentsType" name="Arguments"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ProcedureCallsType">
+    <xs:sequence>
+      <xs:element type="ProcedureCallType" name="ProcedureCall" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="HttpEntititiesType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="HttpEntity" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="ItemType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="Method"/>
+      <xs:element type="xs:string" name="HttpMethod"/>
+      <xs:element type="xs:string" name="Summary" minOccurs="0"/>
+      <xs:element type="xs:string" name="BodySample" minOccurs="0"/>
+      <xs:element type="xs:string" name="Url"/>
+      <xs:element type="HttpEntititiesType" name="HttpEntitities"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="MetaDataType">
+    <xs:sequence>
+      <xs:element type="ItemType" name="Item" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="EntityType">
+    <xs:sequence>
+      <xs:element type="xs:string" name="EntityName"/>
+      <xs:element type="ProcedureCallsType" name="ProcedureCalls"/>
+      <xs:element type="MetaDataType" name="MetaData" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="EntitiesType">
+    <xs:sequence>
+      <xs:element type="EntityType" name="Entity" maxOccurs="unbounded" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="CatalogType">
+    <xs:sequence>
+      <xs:element type="EntitiesType" name="Entities"/>
+    </xs:sequence>
+    <xs:attribute type="xs:dateTime" name="CreatedOn"/>
+  </xs:complexType>
+</xs:schema>

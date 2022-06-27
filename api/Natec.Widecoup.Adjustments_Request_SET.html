@@ -1,0 +1,920 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class Adjustments_Request_SET
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class Adjustments_Request_SET
+   ">
+    <meta name="generator" content="docfx 1.0.1.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <link href="//cdn.rawgit.com/noelboss/featherlight/1.7.6/release/featherlight.min.css" type="text/css" rel="stylesheet">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+  </head>  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="Natec.Widecoup.Adjustments_Request_SET">
+  
+  
+  <h1 id="Natec_Widecoup_Adjustments_Request_SET" data-uid="Natec.Widecoup.Adjustments_Request_SET" class="text-break">Class Adjustments_Request_SET
+  </h1><img src="Adjustments_Request_SET.png">
+  <div class="markdown level0 summary"><p>null</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><span class="xref">Adjustments_Request_SET</span></div>
+      <div class="level2"><a class="xref" href="Natec.Entities.AdjustmentsRequest.html">AdjustmentsRequest</a></div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="Natec.Widecoup.html">Natec.Widecoup</a></h6>
+  <h6><strong>Assembly</strong>: Natec.Entities.dll</h6>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public class Adjustments_Request_SET : BaseEntity, IPropertyIndexer</code></pre>
+  </div>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_remarks"><strong>Remarks</strong></h5>
+  <div class="markdown level0 remarks"><p>POST &lt;host&gt;[:&lt;port&gt;]/api/v1/bss/accounts/[parentid]/adjustments</p>
+</div>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_examples"><strong>Examples</strong></h5>
+  <pre><code>POST : http://bis-swap-apptst:8080/api/v1/Bss/accounts/100000339/adjustments.json?lang=uk
+HEADERS :
+
+Name                           Value                                                                                                                                            
+----                           -----                                                                                                                                            
+Accept                         application/json                                                                                                                                 
+Content-Type                   application/json;charset=utf-16                                                                                                                  
+Authorization                  Basic YXBpX3VzZXI6V2lkZWNvdXAx                                                                                                                   
+system                         300                                                                                                                                      
+global_unique_id               203011234567890                                                                                                         
+Content-Length                 362                                                                                                                                              
+
+CONTENT :
+{
+    &quot;Amount&quot;=&quot;222&quot;
+    &quot;Annul&quot;=0
+    &quot;EffectiveDate&quot;=&quot;2019-07-12T19:10:37.090414 03:00&quot;
+    &quot;Remark&quot;=&quot;CustomerPayments: pay_adjust&quot;
+    &quot;ReasonID&quot;=4
+    &quot;TypeID&quot;=2
+    &quot;PaymentID&quot;=68
+    &quot;IDType&quot;=1
+}</code></pre>
+
+  <h3 id="constructors">Constructors
+  </h3>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET__ctor_" data-uid="Natec.Widecoup.Adjustments_Request_SET.#ctor*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET__ctor" data-uid="Natec.Widecoup.Adjustments_Request_SET.#ctor">Adjustments_Request_SET()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Adjustments_Request_SET()</code></pre>
+  </div>
+  <h3 id="properties">Properties
+  </h3>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_Amount_" data-uid="Natec.Widecoup.Adjustments_Request_SET.Amount*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_Amount" data-uid="Natec.Widecoup.Adjustments_Request_SET.Amount">Amount</h4>
+  <div class="markdown level1 summary"><p>Сумма корректировки, включая налоги</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;Decimal&gt; Amount { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Decimal</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_Amount_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_Annul_" data-uid="Natec.Widecoup.Adjustments_Request_SET.Annul*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_Annul" data-uid="Natec.Widecoup.Adjustments_Request_SET.Annul">Annul</h4>
+  <div class="markdown level1 summary"><p>Признак аннулирования корректировки (1 - да, 0 - нет)</p>
+<ul><li>1  - да</li><li>0  - нет</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int Annul { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_Annul_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_BillID_" data-uid="Natec.Widecoup.Adjustments_Request_SET.BillID*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_BillID" data-uid="Natec.Widecoup.Adjustments_Request_SET.BillID">BillID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор биллингового счета для корректировки</p>
+<ul><li>BILL_ID из справочника BILLS</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;long&gt; BillID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int64</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_BillID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_ChargeID_" data-uid="Natec.Widecoup.Adjustments_Request_SET.ChargeID*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_ChargeID" data-uid="Natec.Widecoup.Adjustments_Request_SET.ChargeID">ChargeID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор начисления для корректировки начисления</p>
+<ul><li>CHRG_ID из справочника CHARGES</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;long&gt; ChargeID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int64</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_ChargeID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_DetailID_" data-uid="Natec.Widecoup.Adjustments_Request_SET.DetailID*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_DetailID" data-uid="Natec.Widecoup.Adjustments_Request_SET.DetailID">DetailID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор детали счета для корректировки начисления</p>
+<ul><li>DETG_ID из справочника DETAIL_GROUPS</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; DetailID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_DetailID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_DocDate_" data-uid="Natec.Widecoup.Adjustments_Request_SET.DocDate*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_DocDate" data-uid="Natec.Widecoup.Adjustments_Request_SET.DocDate">DocDate</h4>
+  <div class="markdown level1 summary"><p>Дата документа-основания для корректировки</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;DateTime&gt; DocDate { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.DateTime</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_DocDate_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_DocNum_" data-uid="Natec.Widecoup.Adjustments_Request_SET.DocNum*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_DocNum" data-uid="Natec.Widecoup.Adjustments_Request_SET.DocNum">DocNum</h4>
+  <div class="markdown level1 summary"><p>Номер документа-основания для корректировки</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string DocNum { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : NULL</p>
+<p>Max length : 64</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_DocNum_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_EffectiveDate_" data-uid="Natec.Widecoup.Adjustments_Request_SET.EffectiveDate*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_EffectiveDate" data-uid="Natec.Widecoup.Adjustments_Request_SET.EffectiveDate">EffectiveDate</h4>
+  <div class="markdown level1 summary"><p>Дата корректировки (по умолчанию - текущая дата)</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;DateTime&gt; EffectiveDate { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.DateTime</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_EffectiveDate_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_EntityName_" data-uid="Natec.Widecoup.Adjustments_Request_SET.EntityName*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_EntityName" data-uid="Natec.Widecoup.Adjustments_Request_SET.EntityName">EntityName</h4>
+  <div class="markdown level1 summary"><p>Название сущности REST, для которой выполняется POST операция</p>
+<ul><li>зарезервировано</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string EntityName { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : NULL</p>
+<p>Max length : 50</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_EntityName_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Path</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_ErrFormat_" data-uid="Natec.Widecoup.Adjustments_Request_SET.ErrFormat*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_ErrFormat" data-uid="Natec.Widecoup.Adjustments_Request_SET.ErrFormat">ErrFormat</h4>
+  <div class="markdown level1 summary"><p>Формат вывода ошибки</p>
+<ul><li>&apos;json&apos;</li><li>&apos;xml&apos;</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string ErrFormat { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;xml&apos;</p>
+<p>Max length : 25</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_ErrFormat_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : QueryParam</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_ID_" data-uid="Natec.Widecoup.Adjustments_Request_SET.ID*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_ID" data-uid="Natec.Widecoup.Adjustments_Request_SET.ID">ID</h4>
+  <div class="markdown level1 summary"><p>Уникальный идентификатор корректировки</p>
+<ul><li>AJMT_ID из справочника ADJUSTMENTS</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; ID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_ID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Path</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_IDType_" data-uid="Natec.Widecoup.Adjustments_Request_SET.IDType*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_IDType" data-uid="Natec.Widecoup.Adjustments_Request_SET.IDType">IDType</h4>
+  <div class="markdown level1 summary"><p>Признак передачи внешнего значения ID</p>
+<ul><li>1  - внешний ID (для BIS всегда устанавливаем в 1)</li><li>0  - внутренний ID</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; IDType { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : 1</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_IDType_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_Item_" data-uid="Natec.Widecoup.Adjustments_Request_SET.Item*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_Item_System_String_" data-uid="Natec.Widecoup.Adjustments_Request_SET.Item(System.String)">Item[String]</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public object this[string index] { get; set; }</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">index</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Object</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_lang_" data-uid="Natec.Widecoup.Adjustments_Request_SET.lang*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_lang" data-uid="Natec.Widecoup.Adjustments_Request_SET.lang">lang</h4>
+  <div class="markdown level1 summary"><p>Указание языка для набора multi-language данных</p>
+<ul><li>&apos;uk&apos;  -украинский</li><li>&apos;ru&apos;  -руский </li><li>&apos;en&apos;  -английский</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string lang { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;&apos;</p>
+<p>Max length : 3</p>
+<p>Mandatory : Yes</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_lang_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : QueryParam</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_ModifiedBy_" data-uid="Natec.Widecoup.Adjustments_Request_SET.ModifiedBy*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_ModifiedBy" data-uid="Natec.Widecoup.Adjustments_Request_SET.ModifiedBy">ModifiedBy</h4>
+  <div class="markdown level1 summary"><p>Пользователь данного изменения</p>
+<ul><li>Username  - пользователь из контекста</li><li>NULL  -если неизвестен</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string ModifiedBy { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : NULL</p>
+<p>Max length : 50</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_ModifiedBy_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_ModifiedFrom_" data-uid="Natec.Widecoup.Adjustments_Request_SET.ModifiedFrom*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_ModifiedFrom" data-uid="Natec.Widecoup.Adjustments_Request_SET.ModifiedFrom">ModifiedFrom</h4>
+  <div class="markdown level1 summary"><p>Источник данного изменения</p>
+<ul><li>IP  -адрес/имя компьютера</li><li>NULL  - если неизвестен</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string ModifiedFrom { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : NULL</p>
+<p>Max length : 50</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_ModifiedFrom_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_ParentID_" data-uid="Natec.Widecoup.Adjustments_Request_SET.ParentID*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_ParentID" data-uid="Natec.Widecoup.Adjustments_Request_SET.ParentID">ParentID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор лицевого счета (соответствует CustomerID)</p>
+<ul><li>CLNT_ID из справочника CLIENT_HISTORIES</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; ParentID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_ParentID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Path</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_PaymentID_" data-uid="Natec.Widecoup.Adjustments_Request_SET.PaymentID*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_PaymentID" data-uid="Natec.Widecoup.Adjustments_Request_SET.PaymentID">PaymentID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор платежа для корректировки платежа клиента</p>
+<ul><li>PAY_ID из справочника PAYMENTS</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;long&gt; PaymentID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int64</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_PaymentID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_ReasonID_" data-uid="Natec.Widecoup.Adjustments_Request_SET.ReasonID*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_ReasonID" data-uid="Natec.Widecoup.Adjustments_Request_SET.ReasonID">ReasonID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор причины корректировки</p>
+<ul><li>AJRS_ID из справочника Adjust_reasons</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; ReasonID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_ReasonID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_Remark_" data-uid="Natec.Widecoup.Adjustments_Request_SET.Remark*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_Remark" data-uid="Natec.Widecoup.Adjustments_Request_SET.Remark">Remark</h4>
+  <div class="markdown level1 summary"><p>Комментарий для корректировки</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string Remark { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : NULL</p>
+<p>Max length : 2000</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_Remark_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_TransferReasonID_" data-uid="Natec.Widecoup.Adjustments_Request_SET.TransferReasonID*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_TransferReasonID" data-uid="Natec.Widecoup.Adjustments_Request_SET.TransferReasonID">TransferReasonID</h4>
+  <div class="markdown level1 summary"><ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; TransferReasonID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_TransferReasonID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_TransferTo_" data-uid="Natec.Widecoup.Adjustments_Request_SET.TransferTo*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_TransferTo" data-uid="Natec.Widecoup.Adjustments_Request_SET.TransferTo">TransferTo</h4>
+  <div class="markdown level1 summary"><p>Идентификатор другого лицевого счета-назначения для корректировки баланса С... НА... (Target Customer ID)</p>
+<ul><li>CLNT_ID из справочника CLIENT_HISTORIES</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; TransferTo { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_TransferTo_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Adjustments_Request_SET_TypeID_" data-uid="Natec.Widecoup.Adjustments_Request_SET.TypeID*"></a>
+  <h4 id="Natec_Widecoup_Adjustments_Request_SET_TypeID" data-uid="Natec.Widecoup.Adjustments_Request_SET.TypeID">TypeID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор типа корректировки</p>
+<ul><li>AJTP_ID из справочника Adjust_types</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; TypeID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Adjustments_Request_SET_TypeID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+    <script src="//cdn.rawgit.com/noelboss/featherlight/1.7.6/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript" src="../styles/plugin-featherlight.js"></script>
+  </body>
+</html>

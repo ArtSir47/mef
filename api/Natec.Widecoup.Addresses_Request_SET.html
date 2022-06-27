@@ -1,0 +1,1293 @@
+<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Class Addresses_Request_SET
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Class Addresses_Request_SET
+   ">
+    <meta name="generator" content="docfx 1.0.1.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <link href="//cdn.rawgit.com/noelboss/featherlight/1.7.6/release/featherlight.min.css" type="text/css" rel="stylesheet">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+  </head>  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="Natec.Widecoup.Addresses_Request_SET">
+  
+  
+  <h1 id="Natec_Widecoup_Addresses_Request_SET" data-uid="Natec.Widecoup.Addresses_Request_SET" class="text-break">Class Addresses_Request_SET
+  </h1>
+  <div class="markdown level0 summary"><p>null</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <div class="inheritance">
+    <h5>Inheritance</h5>
+    <div class="level0"><span class="xref">System.Object</span></div>
+    <div class="level1"><span class="xref">Addresses_Request_SET</span></div>
+      <div class="level2"><a class="xref" href="Natec.Entities.AddressesRequest.html">AddressesRequest</a></div>
+  </div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="Natec.Widecoup.html">Natec.Widecoup</a></h6>
+  <h6><strong>Assembly</strong>: Natec.Entities.dll</h6>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public class Addresses_Request_SET : BaseEntity, IPropertyIndexer</code></pre>
+  </div>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_remarks"><strong>Remarks</strong></h5>
+  <div class="markdown level0 remarks"><p>POST &lt;host&gt;[:&lt;port&gt;]/api/v1/bss/associations/[parentid]/addresses
+POST &lt;host&gt;[:&lt;port&gt;]/api/v1/bss/customers/[parentid]/addresses
+POST &lt;host&gt;[:&lt;port&gt;]/api/v1/bss/subscribers/[parentid]/addresses</p>
+</div>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_examples"><strong>Examples</strong></h5>
+  <pre><code>POST : http://bis-swap-apptst:8080/api/v1/Bss/customers/100000339/addresses.json?lang=uk 
+HEADERS :
+
+Name Value 
+---- ----- 
+Accept application/json 
+Content-Type application/json;charset=utf-16 
+Authorization Basic YXBpX3VzZXI6V2lkZWNvdXAx 
+system 300 
+global_unique_id 28fbc2b3-0894-4095-b5a0-bc6a738ff934 
+Content-Length 990
+
+CONTENT :
+{
+&quot;HouseID&quot;:954050, 
+&quot;StreetID&quot;:22672, 
+&quot;CityID&quot;:1303, 
+&quot;DistrictID&quot;:4647186, 
+&quot;ProvinceID&quot;:1 
+&quot;Appartment&quot;:&quot;11&quot;,
+&quot;Email&quot;:&quot;test@test.com&quot;,
+&quot;Fax&quot;:&quot; 38012345678&quot;,
+&quot;Phone&quot;:&quot; 38012345679&quot;,
+&quot;Corpus&quot;:&quot;111&quot;,
+&quot;TextConst&quot;:&quot;Адресная константа для печати, например в Налоговых накладных&quot;,
+&quot;ZipID&quot;:52,
+&quot;CountyID&quot;:1,
+&quot;AddressTypeID&quot;:1,
+&quot;CityTypeID&quot;:3,
+&quot;StreetTypeID&quot;:2,
+&quot;Remark&quot;:&quot;Комментарий изменения”,
+&quot;IDType&quot;:1,
+&quot;AddressFormat&quot;:0
+}</code></pre>
+
+  <h3 id="constructors">Constructors
+  </h3>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET__ctor_" data-uid="Natec.Widecoup.Addresses_Request_SET.#ctor*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET__ctor" data-uid="Natec.Widecoup.Addresses_Request_SET.#ctor">Addresses_Request_SET()</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Addresses_Request_SET()</code></pre>
+  </div>
+  <h3 id="properties">Properties
+  </h3>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_AddressFormat_" data-uid="Natec.Widecoup.Addresses_Request_SET.AddressFormat*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_AddressFormat" data-uid="Natec.Widecoup.Addresses_Request_SET.AddressFormat">AddressFormat</h4>
+  <div class="markdown level1 summary"><p>Идентификатор типа адреса</p>
+<ul><li>0  -без ограничений</li><li>1  - абонентский ящик</li><li>2  - гео обьект</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int AddressFormat { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><p>Default : 0</p>
+<p>Mandatory : Yes</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_AddressFormat_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_AddressTypeID_" data-uid="Natec.Widecoup.Addresses_Request_SET.AddressTypeID*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_AddressTypeID" data-uid="Natec.Widecoup.Addresses_Request_SET.AddressTypeID">AddressTypeID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор типа адреса</p>
+<ul><li>1  - Юридический</li><li>2  - Доставки</li><li>3  - Абонента</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int AddressTypeID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_AddressTypeID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_Appartment_" data-uid="Natec.Widecoup.Addresses_Request_SET.Appartment*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_Appartment" data-uid="Natec.Widecoup.Addresses_Request_SET.Appartment">Appartment</h4>
+  <div class="markdown level1 summary"><p>Номер квартиры</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string Appartment { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;&apos;</p>
+<p>Max length : 20</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_Appartment_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_CityID_" data-uid="Natec.Widecoup.Addresses_Request_SET.CityID*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_CityID" data-uid="Natec.Widecoup.Addresses_Request_SET.CityID">CityID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор населенного пункта</p>
+<ul><li>справочник CIT_ID</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; CityID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : 0</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_CityID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_CityName_" data-uid="Natec.Widecoup.Addresses_Request_SET.CityName*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_CityName" data-uid="Natec.Widecoup.Addresses_Request_SET.CityName">CityName</h4>
+  <div class="markdown level1 summary"><p>Название населеннго пункта</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string CityName { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;&apos;</p>
+<p>Max length : 100</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_CityName_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_CityTypeID_" data-uid="Natec.Widecoup.Addresses_Request_SET.CityTypeID*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_CityTypeID" data-uid="Natec.Widecoup.Addresses_Request_SET.CityTypeID">CityTypeID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор типа населенного пункта</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; CityTypeID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : 0</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_CityTypeID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_Corpus_" data-uid="Natec.Widecoup.Addresses_Request_SET.Corpus*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_Corpus" data-uid="Natec.Widecoup.Addresses_Request_SET.Corpus">Corpus</h4>
+  <div class="markdown level1 summary"><p>Корпус</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string Corpus { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;&apos;</p>
+<p>Max length : 100</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_Corpus_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_CountryName_" data-uid="Natec.Widecoup.Addresses_Request_SET.CountryName*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_CountryName" data-uid="Natec.Widecoup.Addresses_Request_SET.CountryName">CountryName</h4>
+  <div class="markdown level1 summary"><p>Название страны</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string CountryName { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;&apos;</p>
+<p>Max length : 100</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_CountryName_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_CountyID_" data-uid="Natec.Widecoup.Addresses_Request_SET.CountyID*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_CountyID" data-uid="Natec.Widecoup.Addresses_Request_SET.CountyID">CountyID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор страны</p>
+<ul><li>справочник COU_ID</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; CountyID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : 1</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_CountyID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_DistictName_" data-uid="Natec.Widecoup.Addresses_Request_SET.DistictName*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_DistictName" data-uid="Natec.Widecoup.Addresses_Request_SET.DistictName">DistictName</h4>
+  <div class="markdown level1 summary"><p>Название района</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string DistictName { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;&apos;</p>
+<p>Max length : 100</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_DistictName_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_DistrictID_" data-uid="Natec.Widecoup.Addresses_Request_SET.DistrictID*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_DistrictID" data-uid="Natec.Widecoup.Addresses_Request_SET.DistrictID">DistrictID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор района</p>
+<ul><li>справочник PRODS_ID</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; DistrictID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : 0</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_DistrictID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_EffectiveDate_" data-uid="Natec.Widecoup.Addresses_Request_SET.EffectiveDate*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_EffectiveDate" data-uid="Natec.Widecoup.Addresses_Request_SET.EffectiveDate">EffectiveDate</h4>
+  <div class="markdown level1 summary"><p>Дата применения изменений</p>
+<ul><li>Зарезервировано</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;DateTime&gt; EffectiveDate { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.DateTime</span>&gt;</td>
+        <td><p>Default : NULL</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_EffectiveDate_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_Email_" data-uid="Natec.Widecoup.Addresses_Request_SET.Email*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_Email" data-uid="Natec.Widecoup.Addresses_Request_SET.Email">Email</h4>
+  <div class="markdown level1 summary"><p>Контактный Email</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string Email { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;&apos;</p>
+<p>Max length : 510</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_Email_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_EntityName_" data-uid="Natec.Widecoup.Addresses_Request_SET.EntityName*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_EntityName" data-uid="Natec.Widecoup.Addresses_Request_SET.EntityName">EntityName</h4>
+  <div class="markdown level1 summary"><p>Название сущности REST, для которой выполняется POST операция</p>
+<ul><li>зарезервировано</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string EntityName { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;&apos;</p>
+<p>Max length : 50</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_EntityName_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Path</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_ErrFormat_" data-uid="Natec.Widecoup.Addresses_Request_SET.ErrFormat*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_ErrFormat" data-uid="Natec.Widecoup.Addresses_Request_SET.ErrFormat">ErrFormat</h4>
+  <div class="markdown level1 summary"><p>Формат вывода ошибки</p>
+<ul><li>&apos;json&apos;</li><li>&apos;xml&apos;</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string ErrFormat { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;xml&apos;</p>
+<p>Max length : 25</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_ErrFormat_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : QueryParam</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_ExternalSystemCode_" data-uid="Natec.Widecoup.Addresses_Request_SET.ExternalSystemCode*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_ExternalSystemCode" data-uid="Natec.Widecoup.Addresses_Request_SET.ExternalSystemCode">ExternalSystemCode</h4>
+  <div class="markdown level1 summary"><p>Код внешней системы - инициатора запроса</p>
+<ul><li>зарезервировано</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string ExternalSystemCode { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;&apos;</p>
+<p>Max length : 3</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_ExternalSystemCode_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Path</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_Fax_" data-uid="Natec.Widecoup.Addresses_Request_SET.Fax*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_Fax" data-uid="Natec.Widecoup.Addresses_Request_SET.Fax">Fax</h4>
+  <div class="markdown level1 summary"><p>Контактный Номер факса</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string Fax { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;&apos;</p>
+<p>Max length : 32</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_Fax_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_HouseID_" data-uid="Natec.Widecoup.Addresses_Request_SET.HouseID*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_HouseID" data-uid="Natec.Widecoup.Addresses_Request_SET.HouseID">HouseID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор дома</p>
+<ul><li>справочник HOUSE_ID</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; HouseID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : 0</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_HouseID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_HouseName_" data-uid="Natec.Widecoup.Addresses_Request_SET.HouseName*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_HouseName" data-uid="Natec.Widecoup.Addresses_Request_SET.HouseName">HouseName</h4>
+  <div class="markdown level1 summary"><p>Название дома</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string HouseName { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;&apos;</p>
+<p>Max length : 100</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_HouseName_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_ID_" data-uid="Natec.Widecoup.Addresses_Request_SET.ID*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_ID" data-uid="Natec.Widecoup.Addresses_Request_SET.ID">ID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор истории адреса абонента</p>
+<ul><li>используется для правки</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int ID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_ID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Path</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_IDType_" data-uid="Natec.Widecoup.Addresses_Request_SET.IDType*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_IDType" data-uid="Natec.Widecoup.Addresses_Request_SET.IDType">IDType</h4>
+  <div class="markdown level1 summary"><p>Признак передачи внешнего значения ID</p>
+<ul><li>1  - внешний ID (для BIS всегда устанавливаем в 1)</li><li>0  - внутренний ID</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int IDType { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td><p>Default : 0</p>
+<p>Mandatory : Yes</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_IDType_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_Item_" data-uid="Natec.Widecoup.Addresses_Request_SET.Item*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_Item_System_String_" data-uid="Natec.Widecoup.Addresses_Request_SET.Item(System.String)">Item[String]</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public object this[string index] { get; set; }</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">index</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Object</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_lang_" data-uid="Natec.Widecoup.Addresses_Request_SET.lang*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_lang" data-uid="Natec.Widecoup.Addresses_Request_SET.lang">lang</h4>
+  <div class="markdown level1 summary"><p>Указание языка для набора multi-language данных</p>
+<ul><li>&apos;uk&apos;  -украинский</li><li>&apos;ru&apos;  -руский </li><li>&apos;en&apos;  -английский</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string lang { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;uk&apos;</p>
+<p>Max length : 3</p>
+<p>Mandatory : Yes</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_lang_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : QueryParam</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_ParentID_" data-uid="Natec.Widecoup.Addresses_Request_SET.ParentID*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_ParentID" data-uid="Natec.Widecoup.Addresses_Request_SET.ParentID">ParentID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор вышестоящего узла дерева</p>
+<ul><li>1  -корень дерева учета</li><li>SUBS_ID  -справочник SUBSCRIBERS</li><li>CLNT_ID  -справочник CLIENT_HISTORIES</li><li>ASSC_ID  -справочник ASSOCIATIONS</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public int ParentID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int32</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_ParentID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Path</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_Phone_" data-uid="Natec.Widecoup.Addresses_Request_SET.Phone*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_Phone" data-uid="Natec.Widecoup.Addresses_Request_SET.Phone">Phone</h4>
+  <div class="markdown level1 summary"><p>Контактный Номер телефона</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string Phone { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;&apos;</p>
+<p>Max length : 32</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_Phone_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_ProvinceID_" data-uid="Natec.Widecoup.Addresses_Request_SET.ProvinceID*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_ProvinceID" data-uid="Natec.Widecoup.Addresses_Request_SET.ProvinceID">ProvinceID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор области</p>
+<ul><li>справочник PROV_ID</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; ProvinceID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : 0</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_ProvinceID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_ProvinceName_" data-uid="Natec.Widecoup.Addresses_Request_SET.ProvinceName*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_ProvinceName" data-uid="Natec.Widecoup.Addresses_Request_SET.ProvinceName">ProvinceName</h4>
+  <div class="markdown level1 summary"><p>Название области</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string ProvinceName { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;&apos;</p>
+<p>Max length : 100</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_ProvinceName_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_Remark_" data-uid="Natec.Widecoup.Addresses_Request_SET.Remark*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_Remark" data-uid="Natec.Widecoup.Addresses_Request_SET.Remark">Remark</h4>
+  <div class="markdown level1 summary"><p>Комментарий изменения</p>
+<ul><li>Заполняем причину изменений для истории</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string Remark { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;&apos;</p>
+<p>Max length : 400</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_Remark_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_StreetID_" data-uid="Natec.Widecoup.Addresses_Request_SET.StreetID*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_StreetID" data-uid="Natec.Widecoup.Addresses_Request_SET.StreetID">StreetID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор улицы</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; StreetID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : 0</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_StreetID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_StreetName_" data-uid="Natec.Widecoup.Addresses_Request_SET.StreetName*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_StreetName" data-uid="Natec.Widecoup.Addresses_Request_SET.StreetName">StreetName</h4>
+  <div class="markdown level1 summary"><p>Название улицы</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string StreetName { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;&apos;</p>
+<p>Max length : 100</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_StreetName_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_StreetTypeID_" data-uid="Natec.Widecoup.Addresses_Request_SET.StreetTypeID*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_StreetTypeID" data-uid="Natec.Widecoup.Addresses_Request_SET.StreetTypeID">StreetTypeID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор типа улицы</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; StreetTypeID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : 0</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_StreetTypeID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_TextConst_" data-uid="Natec.Widecoup.Addresses_Request_SET.TextConst*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_TextConst" data-uid="Natec.Widecoup.Addresses_Request_SET.TextConst">TextConst</h4>
+  <div class="markdown level1 summary"><p>Адресная константа для печати, например в Налоговых накладных</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string TextConst { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;&apos;</p>
+<p>Max length : 500</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_TextConst_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_ZipID_" data-uid="Natec.Widecoup.Addresses_Request_SET.ZipID*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_ZipID" data-uid="Natec.Widecoup.Addresses_Request_SET.ZipID">ZipID</h4>
+  <div class="markdown level1 summary"><p>Идентификатор почтового индекса</p>
+<ul><li>справочник ZIP_ID</li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Nullable&lt;int&gt; ZipID { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Int32</span>&gt;</td>
+        <td><p>Default : 0</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_ZipID_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+  
+  
+  <a id="Natec_Widecoup_Addresses_Request_SET_ZipName_" data-uid="Natec.Widecoup.Addresses_Request_SET.ZipName*"></a>
+  <h4 id="Natec_Widecoup_Addresses_Request_SET_ZipName" data-uid="Natec.Widecoup.Addresses_Request_SET.ZipName">ZipName</h4>
+  <div class="markdown level1 summary"><p>Номер почтового индекса (текст)</p>
+<ul><li></li></ul>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string ZipName { get; set; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><p>Default : &apos;&apos;</p>
+<p>Max length : 100</p>
+<p>Mandatory : No</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 id="Natec_Widecoup_Addresses_Request_SET_ZipName_remarks">Remarks</h5>
+  <div class="markdown level1 remarks"><p>Place : Body</p>
+</div>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+    <script src="//cdn.rawgit.com/noelboss/featherlight/1.7.6/release/featherlight.min.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript" src="../styles/plugin-featherlight.js"></script>
+  </body>
+</html>
